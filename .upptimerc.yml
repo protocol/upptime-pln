@@ -11,6 +11,8 @@ sites:
   url: https://benchmark-js.ipfs.io
 - name: bifrost-gateway.ipfs.io
   url: https://bifrost-gateway.ipfs.io
+- name: bifrost-gateway.stage.ipfs.io
+  url: https://bifrost-gateway.stage.ipfs.io
 - name: blocks.ipfs.io
   url: https://blocks.ipfs.io
 - name: buildingweb3.com
@@ -97,6 +99,8 @@ sites:
   url: https://lilium.sh
 - name: microgen.site
   url: https://microgen.site
+- name: mosaia.io
+  url: https://mosaia.io
 - name: multiformats.io
   url: https://multiformats.io
 - name: networkgoods.io
@@ -105,6 +109,8 @@ sites:
   url: https://nftschool.dev
 - name: nftstorage.link
   url: https://nftstorage.link
+- name: openpanda.io
+  url: https://openpanda.io
 - name: peerpad.net
   url: https://peerpad.net
 - name: pl-launchpad.io
@@ -117,8 +123,6 @@ sites:
   url: https://proto.school
 - name: protocol.ai
   url: https://protocol.ai
-- name: protocollabsnet.work
-  url: https://protocollabsnet.work
 - name: randomplanetfacts.xyz
   url: https://randomplanetfacts.xyz
 - name: recursive.ipfs.io
