@@ -173,13 +173,14 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
-  introTitle: "PLN site uptime monitor and status page."
-  introMessage: This is a work in progress status page which uses **real-time** data from our [GitHub repository](https://github.com/vesahc/upptime-pln).
+  introTitle: "PL site uptime monitor and status page."
+  introMessage: This is a work in progress PL status page which uses **real-time** data from our [GitHub repository](https://github.com/vesahc/upptime-pln).
   navbar:
     - title: Status
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+  theme: night
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
