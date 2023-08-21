@@ -11,8 +11,6 @@ sites:
   url: https://benchmark-js.ipfs.io
 - name: bifrost-gateway.ipfs.io
   url: https://bifrost-gateway.ipfs.io
-- name: bifrost-gateway.stage.ipfs.io
-  url: https://bifrost-gateway.stage.ipfs.io
 - name: blocks.ipfs.io
   url: https://blocks.ipfs.io
 - name: buildingweb3.com
