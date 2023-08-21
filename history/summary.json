@@ -77,19 +77,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/bifrost-gateway.stage.ipfs.io.ico",
     "slug": "bifrost-gateway-stage-ipfs-io",
     "status": "up",
-    "uptime": "18.99%",
-    "uptimeDay": "18.99%",
-    "uptimeWeek": "18.99%",
-    "uptimeMonth": "18.99%",
-    "uptimeYear": "18.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 275,
     "timeDay": 275,
     "timeWeek": 275,
     "timeMonth": 275,
     "timeYear": 275,
-    "dailyMinutesDown": {
-      "2023-08-21": 4
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "blocks.ipfs.io",
