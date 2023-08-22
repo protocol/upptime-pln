@@ -180,6 +180,12 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+    - title: Slack
+      href: https://filecoinproject.slack.com/archives/C05NN527TS7
+  scripts:
+    - src: https://plausible.io/js/script.outbound-links.js
+      defer: true
+      data-domain: "upptime.outercore.ai"
   theme: night
 
 # Upptime also supports notifications, assigning issues, and more
