@@ -436,19 +436,19 @@
     "url": "https://buildingweb3.com",
     "icon": "https://icons.duckduckgo.com/ip3/buildingweb3.com.ico",
     "slug": "buildingweb3-com",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.87%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 706,
-    "timeDay": 236,
-    "timeWeek": 741,
-    "timeMonth": 706,
-    "timeYear": 706,
+    "status": "up",
+    "uptime": "99.93%",
+    "uptimeDay": "99.42%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
+    "time": 702,
+    "timeDay": 362,
+    "timeWeek": 732,
+    "timeMonth": 702,
+    "timeYear": 702,
     "dailyMinutesDown": {
-      "2023-08-29": 2
+      "2023-08-29": 8
     }
   },
   {
