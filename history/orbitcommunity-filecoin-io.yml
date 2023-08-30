@@ -1,7 +1,7 @@
 url: https://orbitcommunity.filecoin.io
-status: down
-code: 502
-responseTime: 53
-lastUpdated: 2023-08-30T06:37:09.200Z
+status: up
+code: 200
+responseTime: 892
+lastUpdated: 2023-08-30T06:45:29.690Z
 startTime: 2023-08-23T20:01:47.469Z
 generator: Upptime <https://github.com/upptime/upptime>
