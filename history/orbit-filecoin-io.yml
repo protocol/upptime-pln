@@ -1,7 +1,7 @@
 url: https://orbit.filecoin.io
-status: up
-code: 200
-responseTime: 743
-lastUpdated: 2023-08-29T23:14:49.271Z
+status: down
+code: 502
+responseTime: 28
+lastUpdated: 2023-08-30T06:37:05.971Z
 startTime: 2023-08-23T20:01:46.038Z
 generator: Upptime <https://github.com/upptime/upptime>
