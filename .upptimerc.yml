@@ -159,12 +159,16 @@ sites:
   url: https://fil-safts.com
 - name: fil.space
   url: https://fil.space
+- name: fildev.io
+  url: https://fildev.io
 - name: filecoin-explorer.com
   url: https://filecoin-explorer.com
 - name: filecoin-tracker.com
   url: https://filecoin-tracker.com
 - name: filecoin.io
   url: https://filecoin.io
+- name: filecoindata.tools
+  url: https://filecoindata.tools
 - name: filecointldr.io
   url: https://filecointldr.io
 - name: filecoinunleashed.io
@@ -219,8 +223,6 @@ sites:
   url: https://js.ipfs.io
 - name: js.ipfs.tech
   url: https://js.ipfs.tech
-- name: labweek2022.plnetwork.io
-  url: https://labweek2022.plnetwork.io
 - name: latam22.sbs.tech
   url: https://latam22.sbs.tech
 - name: legacy-docs.filecoin.io
