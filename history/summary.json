@@ -23,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/2022.ipfs-thing.events.ico",
     "slug": "2022-ipfs-thing-events",
     "status": "up",
-    "uptime": "99.93%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.93%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 770,
     "timeDay": 686,
     "timeWeek": 835,
     "timeMonth": 770,
     "timeYear": 770,
-    "dailyMinutesDown": {
-      "2023-08-30": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "2022.ipfs-thing.io",
@@ -1592,18 +1590,20 @@
     "url": "https://fundingthecommons.io",
     "icon": "https://icons.duckduckgo.com/ip3/fundingthecommons.io.ico",
     "slug": "fundingthecommons-io",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 409,
-    "timeDay": 431,
-    "timeWeek": 442,
-    "timeMonth": 409,
-    "timeYear": 409,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 405,
+    "timeDay": 370,
+    "timeWeek": 425,
+    "timeMonth": 405,
+    "timeYear": 405,
+    "dailyMinutesDown": {
+      "2023-09-01": 2
+    }
   },
   {
     "name": "fvm.filecoin.io",
@@ -2140,7 +2140,7 @@
     "uptimeYear": "100.00%",
     "time": 433,
     "timeDay": 436,
-    "timeWeek": 406,
+    "timeWeek": 399,
     "timeMonth": 433,
     "timeYear": 433,
     "dailyMinutesDown": {}
