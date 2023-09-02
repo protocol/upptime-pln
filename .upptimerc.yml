@@ -426,7 +426,7 @@ status-website:
   cname: upptime.outercore.ai
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
+  name: PL Upptime
   introTitle: "PL site uptime monitor and status page."
   introMessage: This is a work in progress PL status page which uses **real-time** data from our [GitHub repository](https://github.com/vesahc/upptime-pln).
   navbar:
