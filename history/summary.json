@@ -1827,10 +1827,10 @@
     "url": "https://ipfs.cat",
     "icon": "https://icons.duckduckgo.com/ip3/ipfs.cat.ico",
     "slug": "ipfs-cat",
-    "status": "up",
+    "status": "down",
     "uptime": "99.41%",
-    "uptimeDay": "91.89%",
-    "uptimeWeek": "98.84%",
+    "uptimeDay": "91.74%",
+    "uptimeWeek": "98.82%",
     "uptimeMonth": "99.41%",
     "uptimeYear": "99.41%",
     "time": 832,
@@ -1839,6 +1839,7 @@
     "timeMonth": 832,
     "timeYear": 832,
     "dailyMinutesDown": {
+      "2023-09-04": 2,
       "2023-09-03": 117
     }
   },
