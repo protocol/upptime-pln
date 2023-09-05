@@ -2382,19 +2382,19 @@
     "url": "https://pastelock.drand.love",
     "icon": "https://icons.duckduckgo.com/ip3/pastelock.drand.love.ico",
     "slug": "pastelock-drand-love",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.87%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 249,
-    "timeDay": 119,
-    "timeWeek": 232,
-    "timeMonth": 249,
-    "timeYear": 249,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.63%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 256,
+    "timeDay": 244,
+    "timeWeek": 245,
+    "timeMonth": 256,
+    "timeYear": 256,
     "dailyMinutesDown": {
-      "2023-09-05": 2
+      "2023-09-05": 5
     }
   },
   {
