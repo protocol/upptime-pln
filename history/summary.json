@@ -1839,18 +1839,19 @@
     "url": "https://ipfs.cat",
     "icon": "https://icons.duckduckgo.com/ip3/ipfs.cat.ico",
     "slug": "ipfs-cat",
-    "status": "up",
+    "status": "down",
     "uptime": "97.95%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "95.44%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "95.42%",
     "uptimeMonth": "97.95%",
     "uptimeYear": "97.95%",
-    "time": 1272,
-    "timeDay": 620,
-    "timeWeek": 1499,
-    "timeMonth": 1272,
-    "timeYear": 1272,
+    "time": 1257,
+    "timeDay": 607,
+    "timeWeek": 1469,
+    "timeMonth": 1257,
+    "timeYear": 1257,
     "dailyMinutesDown": {
+      "2023-09-05": 2,
       "2023-09-04": 342,
       "2023-09-03": 117
     }
@@ -2383,19 +2384,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/pastelock.drand.love.ico",
     "slug": "pastelock-drand-love",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.63%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 256,
     "timeDay": 244,
     "timeWeek": 245,
     "timeMonth": 256,
     "timeYear": 256,
-    "dailyMinutesDown": {
-      "2023-09-05": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "peerpad.net",
