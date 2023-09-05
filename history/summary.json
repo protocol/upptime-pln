@@ -1840,18 +1840,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/ipfs.cat.ico",
     "slug": "ipfs-cat",
     "status": "up",
-    "uptime": "97.94%",
-    "uptimeDay": "99.46%",
-    "uptimeWeek": "95.37%",
-    "uptimeMonth": "97.94%",
-    "uptimeYear": "97.94%",
+    "uptime": "97.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "95.44%",
+    "uptimeMonth": "97.97%",
+    "uptimeYear": "97.97%",
     "time": 1244,
     "timeDay": 716,
     "timeWeek": 1430,
     "timeMonth": 1244,
     "timeYear": 1244,
     "dailyMinutesDown": {
-      "2023-09-05": 8,
       "2023-09-04": 342,
       "2023-09-03": 117
     }
@@ -2347,18 +2346,20 @@
     "url": "https://overall.filecoin-goldenretriever.io",
     "icon": "https://icons.duckduckgo.com/ip3/overall.filecoin-goldenretriever.io.ico",
     "slug": "overall-filecoin-goldenretriever-io",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 397,
     "timeDay": 333,
     "timeWeek": 416,
     "timeMonth": 397,
     "timeYear": 397,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-09-05": 2
+    }
   },
   {
     "name": "paris22.sbs.tech",
