@@ -1,7 +1,7 @@
 url: https://ecosystem.filecoin.io
-status: up
-code: 200
-responseTime: 430
-lastUpdated: 2023-09-04T23:14:41.234Z
+status: down
+code: 502
+responseTime: 15762
+lastUpdated: 2023-09-05T02:54:04.919Z
 startTime: 2023-08-23T20:00:53.800Z
 generator: Upptime <https://github.com/upptime/upptime>
