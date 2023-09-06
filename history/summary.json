@@ -1840,18 +1840,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/ipfs.cat.ico",
     "slug": "ipfs-cat",
     "status": "up",
-    "uptime": "97.95%",
-    "uptimeDay": "99.50%",
-    "uptimeWeek": "95.37%",
-    "uptimeMonth": "97.95%",
-    "uptimeYear": "97.95%",
+    "uptime": "97.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "95.44%",
+    "uptimeMonth": "97.99%",
+    "uptimeYear": "97.99%",
     "time": 1218,
     "timeDay": 726,
     "timeWeek": 1396,
     "timeMonth": 1218,
     "timeYear": 1218,
     "dailyMinutesDown": {
-      "2023-09-05": 7,
       "2023-09-04": 342,
       "2023-09-03": 117
     }
