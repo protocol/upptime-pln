@@ -205,8 +205,6 @@ sites:
   url: https://ipfs-project.org
 - name: ipfs-thing.events
   url: https://ipfs-thing.events
-- name: ipfs.cat
-  url: https://ipfs.cat
 - name: ipfs.impactevaluator.io
   url: https://ipfs.impactevaluator.io
 - name: ipfs.network
