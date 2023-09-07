@@ -1420,19 +1420,19 @@
     "url": "https://fildev.io",
     "icon": "https://icons.duckduckgo.com/ip3/fildev.io.ico",
     "slug": "fildev-io",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.87%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 229,
-    "timeDay": 220,
-    "timeWeek": 229,
-    "timeMonth": 229,
-    "timeYear": 229,
+    "status": "up",
+    "uptime": "99.52%",
+    "uptimeDay": "97.25%",
+    "uptimeWeek": "99.52%",
+    "uptimeMonth": "99.52%",
+    "uptimeYear": "99.52%",
+    "time": 335,
+    "timeDay": 611,
+    "timeWeek": 335,
+    "timeMonth": 335,
+    "timeYear": 335,
     "dailyMinutesDown": {
-      "2023-09-07": 2
+      "2023-09-07": 40
     }
   },
   {
