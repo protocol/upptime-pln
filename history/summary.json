@@ -303,18 +303,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/bifrost-gateway.stage.ipfs.io.ico",
     "slug": "bifrost-gateway-stage-ipfs-io",
     "status": "down",
-    "uptime": "99.69%",
-    "uptimeDay": "94.09%",
-    "uptimeWeek": "99.16%",
-    "uptimeMonth": "99.69%",
-    "uptimeYear": "99.69%",
+    "uptime": "99.67%",
+    "uptimeDay": "93.66%",
+    "uptimeWeek": "99.09%",
+    "uptimeMonth": "99.67%",
+    "uptimeYear": "99.67%",
     "time": 179,
     "timeDay": 41,
     "timeWeek": 183,
     "timeMonth": 179,
     "timeYear": 179,
     "dailyMinutesDown": {
-      "2023-09-09": 85
+      "2023-09-09": 91
     }
   },
   {
@@ -448,19 +448,19 @@
     "url": "https://buildingweb3.com",
     "icon": "https://icons.duckduckgo.com/ip3/buildingweb3.com.ico",
     "slug": "buildingweb3-com",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.78%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 645,
-    "timeDay": 680,
-    "timeWeek": 589,
-    "timeMonth": 645,
-    "timeYear": 645,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.50%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 641,
+    "timeDay": 589,
+    "timeWeek": 579,
+    "timeMonth": 641,
+    "timeYear": 641,
     "dailyMinutesDown": {
-      "2023-09-09": 3
+      "2023-09-09": 7
     }
   },
   {
@@ -522,19 +522,19 @@
     "url": "https://cid.ipfs.io",
     "icon": "https://icons.duckduckgo.com/ip3/cid.ipfs.io.ico",
     "slug": "cid-ipfs-io",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.82%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 975,
-    "timeDay": 638,
-    "timeWeek": 535,
-    "timeMonth": 975,
-    "timeYear": 975,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.54%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 956,
+    "timeDay": 588,
+    "timeWeek": 536,
+    "timeMonth": 956,
+    "timeYear": 956,
     "dailyMinutesDown": {
-      "2023-09-09": 3
+      "2023-09-09": 7
     }
   },
   {
@@ -596,19 +596,19 @@
     "url": "https://consensus-factory.io",
     "icon": "https://icons.duckduckgo.com/ip3/consensus-factory.io.ico",
     "slug": "consensus-factory-io",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.86%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 587,
-    "timeDay": 776,
-    "timeWeek": 558,
-    "timeMonth": 587,
-    "timeYear": 587,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.57%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 602,
+    "timeDay": 929,
+    "timeWeek": 616,
+    "timeMonth": 602,
+    "timeYear": 602,
     "dailyMinutesDown": {
-      "2023-09-09": 2
+      "2023-09-09": 6
     }
   },
   {
@@ -2067,19 +2067,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/liftoff.filecoin.io.ico",
     "slug": "liftoff-filecoin-io",
     "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 691,
     "timeDay": 826,
     "timeWeek": 679,
     "timeMonth": 691,
     "timeYear": 691,
-    "dailyMinutesDown": {
-      "2023-09-09": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "lilium.sh",
@@ -2231,19 +2229,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/nftschool.dev.ico",
     "slug": "nftschool-dev",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.40%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 470,
     "timeDay": 370,
     "timeWeek": 515,
     "timeMonth": 470,
     "timeYear": 470,
-    "dailyMinutesDown": {
-      "2023-09-09": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "nftstorage.link",
@@ -2413,19 +2409,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/pl-launchpad.io.ico",
     "slug": "pl-launchpad-io",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.44%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1181,
     "timeDay": 1020,
     "timeWeek": 1095,
     "timeMonth": 1181,
     "timeYear": 1181,
-    "dailyMinutesDown": {
-      "2023-09-09": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "pln.mosaia.io",
@@ -2505,19 +2499,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/proto.school.ico",
     "slug": "proto-school",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.47%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 527,
     "timeDay": 207,
     "timeWeek": 372,
     "timeMonth": 527,
     "timeYear": 527,
-    "dailyMinutesDown": {
-      "2023-09-09": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "protocol.ai",
@@ -2633,19 +2625,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/retrieval.market.ico",
     "slug": "retrieval-market",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.51%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 654,
     "timeDay": 542,
     "timeWeek": 679,
     "timeMonth": 654,
     "timeYear": 654,
-    "dailyMinutesDown": {
-      "2023-09-09": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "rfs.fvm.dev",
@@ -2779,19 +2769,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/sbs.tech.ico",
     "slug": "sbs-tech",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.57%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 509,
     "timeDay": 529,
     "timeWeek": 482,
     "timeMonth": 509,
     "timeYear": 509,
-    "dailyMinutesDown": {
-      "2023-09-09": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "security.filecoin.io",
@@ -2889,19 +2877,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/singularity.storage.ico",
     "slug": "singularity-storage",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.60%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 507,
     "timeDay": 968,
     "timeWeek": 595,
     "timeMonth": 507,
     "timeYear": 507,
-    "dailyMinutesDown": {
-      "2023-09-09": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "slate.host",
