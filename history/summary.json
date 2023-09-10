@@ -303,18 +303,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/bifrost-gateway.stage.ipfs.io.ico",
     "slug": "bifrost-gateway-stage-ipfs-io",
     "status": "down",
-    "uptime": "95.66%",
-    "uptimeDay": "14.11%",
-    "uptimeWeek": "87.73%",
-    "uptimeMonth": "95.66%",
-    "uptimeYear": "95.66%",
+    "uptime": "95.61%",
+    "uptimeDay": "13.20%",
+    "uptimeWeek": "87.60%",
+    "uptimeMonth": "95.61%",
+    "uptimeYear": "95.61%",
     "time": 179,
     "timeDay": 0,
     "timeWeek": 185,
     "timeMonth": 179,
     "timeYear": 179,
     "dailyMinutesDown": {
-      "2023-09-10": 841,
+      "2023-09-10": 854,
       "2023-09-09": 396
     }
   },
@@ -1515,19 +1515,19 @@
     "url": "https://filecointldr.io",
     "icon": "https://icons.duckduckgo.com/ip3/filecointldr.io.ico",
     "slug": "filecointldr-io",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "99.09%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
     "time": 354,
-    "timeDay": 385,
-    "timeWeek": 329,
+    "timeDay": 380,
+    "timeWeek": 331,
     "timeMonth": 354,
     "timeYear": 354,
     "dailyMinutesDown": {
-      "2023-09-10": 1
+      "2023-09-10": 13
     }
   },
   {
