@@ -1,7 +1,7 @@
 url: https://faucet.spacenet.ipc.space
-status: up
-code: 200
-responseTime: 743
-lastUpdated: 2023-09-10T23:14:36.424Z
+status: down
+code: 503
+responseTime: 426
+lastUpdated: 2023-09-11T13:24:10.232Z
 startTime: 2023-08-23T20:01:01.723Z
 generator: Upptime <https://github.com/upptime/upptime>
