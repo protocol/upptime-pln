@@ -1350,8 +1350,8 @@
     "slug": "faucet-spacenet-ipc-space",
     "status": "down",
     "uptime": "98.03%",
-    "uptimeDay": "62.44%",
-    "uptimeWeek": "94.63%",
+    "uptimeDay": "62.31%",
+    "uptimeWeek": "94.62%",
     "uptimeMonth": "98.03%",
     "uptimeYear": "98.03%",
     "time": 596,
@@ -1360,7 +1360,7 @@
     "timeMonth": 596,
     "timeYear": 596,
     "dailyMinutesDown": {
-      "2023-09-11": 541
+      "2023-09-11": 543
     }
   },
   {
@@ -1739,18 +1739,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/helia.io.ico",
     "slug": "helia-io",
     "status": "up",
-    "uptime": "0.22%",
-    "uptimeDay": "0.22%",
-    "uptimeWeek": "0.22%",
-    "uptimeMonth": "0.22%",
-    "uptimeYear": "0.22%",
+    "uptime": "0.32%",
+    "uptimeDay": "0.32%",
+    "uptimeWeek": "0.32%",
+    "uptimeMonth": "0.32%",
+    "uptimeYear": "0.32%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-09-11": 2
+      "2023-09-11": 4
     }
   },
   {
