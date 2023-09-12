@@ -298,29 +298,6 @@
     "dailyMinutesDown": {}
   },
   {
-    "name": "bifrost-gateway.stage.ipfs.io",
-    "url": "https://bifrost-gateway.stage.ipfs.io",
-    "icon": "https://icons.duckduckgo.com/ip3/bifrost-gateway.stage.ipfs.io.ico",
-    "slug": "bifrost-gateway-stage-ipfs-io",
-    "status": "down",
-    "uptime": "89.18%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "67.19%",
-    "uptimeMonth": "89.18%",
-    "uptimeYear": "89.18%",
-    "time": 179,
-    "timeDay": 0,
-    "timeWeek": 195,
-    "timeMonth": 179,
-    "timeYear": 179,
-    "dailyMinutesDown": {
-      "2023-09-12": 31,
-      "2023-09-11": 1440,
-      "2023-09-10": 1440,
-      "2023-09-09": 396
-    }
-  },
-  {
     "name": "blocks.ipfs.io",
     "url": "https://blocks.ipfs.io",
     "icon": "https://icons.duckduckgo.com/ip3/blocks.ipfs.io.ico",
@@ -1372,18 +1349,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/faucet.spacenet.ipc.space.ico",
     "slug": "faucet-spacenet-ipc-space",
     "status": "down",
-    "uptime": "97.58%",
-    "uptimeDay": "53.65%",
-    "uptimeWeek": "93.38%",
-    "uptimeMonth": "97.58%",
-    "uptimeYear": "97.58%",
+    "uptime": "97.19%",
+    "uptimeDay": "45.86%",
+    "uptimeWeek": "92.27%",
+    "uptimeMonth": "97.19%",
+    "uptimeYear": "97.19%",
     "time": 596,
     "timeDay": 426,
     "timeWeek": 607,
     "timeMonth": 596,
     "timeYear": 596,
     "dailyMinutesDown": {
-      "2023-09-12": 32,
+      "2023-09-12": 144,
       "2023-09-11": 636
     }
   },
