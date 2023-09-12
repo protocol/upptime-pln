@@ -298,29 +298,6 @@
     "dailyMinutesDown": {}
   },
   {
-    "name": "bifrost-gateway.stage.ipfs.io",
-    "url": "https://bifrost-gateway.stage.ipfs.io",
-    "icon": "https://icons.duckduckgo.com/ip3/bifrost-gateway.stage.ipfs.io.ico",
-    "slug": "bifrost-gateway-stage-ipfs-io",
-    "status": "down",
-    "uptime": "86.67%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "58.43%",
-    "uptimeMonth": "86.67%",
-    "uptimeYear": "86.67%",
-    "time": 179,
-    "timeDay": 0,
-    "timeWeek": 195,
-    "timeMonth": 179,
-    "timeYear": 179,
-    "dailyMinutesDown": {
-      "2023-09-12": 915,
-      "2023-09-11": 1440,
-      "2023-09-10": 1440,
-      "2023-09-09": 396
-    }
-  },
-  {
     "name": "blocks.ipfs.io",
     "url": "https://blocks.ipfs.io",
     "icon": "https://icons.duckduckgo.com/ip3/blocks.ipfs.io.ico",
@@ -1372,18 +1349,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/faucet.spacenet.ipc.space.ico",
     "slug": "faucet-spacenet-ipc-space",
     "status": "down",
-    "uptime": "94.56%",
+    "uptime": "94.31%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "84.62%",
-    "uptimeMonth": "94.56%",
-    "uptimeYear": "94.56%",
+    "uptimeWeek": "83.88%",
+    "uptimeMonth": "94.31%",
+    "uptimeYear": "94.31%",
     "time": 596,
     "timeDay": 0,
     "timeWeek": 607,
     "timeMonth": 596,
     "timeYear": 596,
     "dailyMinutesDown": {
-      "2023-09-12": 915,
+      "2023-09-12": 990,
       "2023-09-11": 636
     }
   },
@@ -2504,18 +2481,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/proto.school.ico",
     "slug": "proto-school",
     "status": "up",
-    "uptime": "99.37%",
-    "uptimeDay": "85.85%",
-    "uptimeWeek": "97.98%",
-    "uptimeMonth": "99.37%",
-    "uptimeYear": "99.37%",
+    "uptime": "99.18%",
+    "uptimeDay": "81.44%",
+    "uptimeWeek": "97.35%",
+    "uptimeMonth": "99.18%",
+    "uptimeYear": "99.18%",
     "time": 519,
     "timeDay": 0,
     "timeWeek": 342,
     "timeMonth": 519,
     "timeYear": 519,
     "dailyMinutesDown": {
-      "2023-09-12": 204
+      "2023-09-12": 267
     }
   },
   {
