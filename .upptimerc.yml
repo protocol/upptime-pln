@@ -398,6 +398,7 @@ sites:
   url: https://wrtc-star2.sjc.dwebops.pub
 - name: www.atlas.storage
   url: https://www.atlas.storage
+  assignees: vesahc
 - name: www.cod.cloud
   url: https://www.cod.cloud
 - name: www.filecoin-goldenretriever.io
