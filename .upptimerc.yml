@@ -1,7 +1,5 @@
-# Change these first
-owner: vesahc # Your GitHub organization or username, where this repository lives
-repo: upptime-pln # The name of this repository
-
+owner: vesahc
+repo: upptime-pln
 sites:
 - name: 2019.ipfs.camp
   url: https://2019.ipfs.camp
@@ -23,6 +21,7 @@ sites:
   url: https://archive.discuss.filecoin.io
 - name: arewedistributedyet.com
   url: https://arewedistributedyet.com
+  assignees: vesahc
 - name: arg.protocol.ai
   url: https://arg.protocol.ai
 - name: awesome.ipfs.io
@@ -35,8 +34,6 @@ sites:
   url: https://benchmark-js.ipfs.io
 - name: bifrost-gateway.ipfs.io
   url: https://bifrost-gateway.ipfs.io
-- name: bifrost-gateway.stage.ipfs.io
-  url: https://bifrost-gateway.stage.ipfs.io
 - name: blocks.ipfs.io
   url: https://blocks.ipfs.io
 - name: blog.ipfs.io
@@ -417,28 +414,22 @@ sites:
   url: https://zh.dev.wikipedia-on-ipfs.org
 - name: zh.wikipedia-on-ipfs.org
   url: https://zh.wikipedia-on-ipfs.org
-
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: upptime.outercore.ai
-  # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
-  introTitle: "PL site uptime monitor and status page."
-  introMessage: This is a work in progress PL status page which uses **real-time** data from our [GitHub repository](https://github.com/vesahc/upptime-pln).
+  introTitle: PL site uptime monitor and status page.
+  introMessage: This is a work in progress PL status page which uses **real-time**
+    data from our [GitHub repository](https://github.com/vesahc/upptime-pln).
   navbar:
-    - title: Status
-      href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
-    - title: Slack
-      href: https://filecoinproject.slack.com/archives/C05NN527TS7
+  - title: Status
+    href: /
+  - title: GitHub
+    href: https://github.com/$OWNER/$REPO
+  - title: Slack
+    href: https://filecoinproject.slack.com/archives/C05NN527TS7
   scripts:
-    - src: https://plausible.io/js/script.outbound-links.js
-      defer: true
-      data-domain: "upptime.outercore.ai"
+  - src: https://plausible.io/js/script.outbound-links.js
+    defer: true
+    data-domain: upptime.outercore.ai
   theme: night
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
