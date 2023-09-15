@@ -1,6 +1,6 @@
 # [📈 Live Status](https://upptime.outercore.ai): <!--live status--> **🟩 All systems operational**
 
-This repository contains the open-source uptime monitor and status page for [chase.fil](https://upptime.outercore.ai), powered by [Upptime](https://github.com/upptime/upptime).
+This repository contains the open-source uptime monitor and status page for [Protocol Labs](https://upptime.outercore.ai), powered by [Upptime](https://github.com/upptime/upptime).
 
 [![Uptime CI](https://github.com/vesahc/upptime-pln/workflows/Uptime%20CI/badge.svg)](https://github.com/vesahc/upptime-pln/actions?query=workflow%3A%22Uptime+CI%22)
 [![Response Time CI](https://github.com/vesahc/upptime-pln/workflows/Response%20Time%20CI/badge.svg)](https://github.com/vesahc/upptime-pln/actions?query=workflow%3A%22Response+Time+CI%22)
