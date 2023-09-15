@@ -1,7 +1,7 @@
 url: https://blog.ipfs.tech
-status: up
-code: 200
-responseTime: 189
-lastUpdated: 2023-09-15T19:19:13.160Z
+status: down
+code: 502
+responseTime: 291
+lastUpdated: 2023-09-15T22:25:34.289Z
 startTime: 2023-08-23T20:00:10.863Z
 generator: Upptime <https://github.com/upptime/upptime>
