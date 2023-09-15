@@ -149,8 +149,6 @@ sites:
   url: https://explore.ipld.io
 - name: fa.wikipedia-on-ipfs.org
   url: https://fa.wikipedia-on-ipfs.org
-- name: faucet.spacenet.ipc.space
-  url: https://faucet.spacenet.ipc.space
 - name: fil-safts.com
   url: https://fil-safts.com
 - name: fil.space
@@ -419,7 +417,7 @@ status-website:
   name: Upptime
   introTitle: PL site uptime monitor and status page.
   introMessage: This is a work in progress PL status page which uses **real-time**
-    data from our [GitHub repository](https://github.com/vesahc/upptime-pln).
+    data from our [GitHub repository](https://github.com/$OWNER/$REPO).
   navbar:
   - title: Status
     href: /
