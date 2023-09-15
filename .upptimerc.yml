@@ -21,6 +21,7 @@ sites:
   url: https://archive.discuss.filecoin.io
 - name: arewedistributedyet.com
   url: https://arewedistributedyet.com
+  assignees: vesahc, cwaring
 - name: arg.protocol.ai
   url: https://arg.protocol.ai
 - name: awesome.ipfs.io
