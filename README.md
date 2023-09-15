@@ -4,6 +4,8 @@ This repository contains the open-source uptime monitor and status page for [Pro
 
 The [Airtable Interface](https://airtable.com/invite/l?inviteId=invVgVQUtAq60QRrA&inviteToken=db142bb642208b5ba9943e1c02ddb083db68ceef4bf45667fa7a2dd17c136b48&utm_medium=email&utm_source=product_team&utm_content=transactional-alerts) can be used to create a Pull Request to Add or Omit monitoring for specific sites, as well as to add your Github handle to receive notifications for specific sites. Please check the [Upptime Configuration](https://upptime.js.org/docs/configuration) docs for more advanced config options, some of which are included in the Airtable interface.
 
+Do not add sites that do not exist in Airtable. They will be overwritten by an automated flow that happens weekly (currently) which collects known active domains via API. Open an issue, or contact @vesahc (@chase.fil on Slack) if you would like to add additional data sources. 
+
 Global notifications are posted to the [#upptime-pln](https://filecoinproject.slack.com/archives/C05NN527TS7) channel on Filecoin Slack.
 
 [![Uptime CI](https://github.com/vesahc/upptime-pln/workflows/Uptime%20CI/badge.svg)](https://github.com/vesahc/upptime-pln/actions?query=workflow%3A%22Uptime+CI%22)
