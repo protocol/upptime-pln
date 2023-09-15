@@ -417,7 +417,7 @@ status-website:
   name: Upptime
   introTitle: PL site uptime monitor and status page.
   introMessage: This is a work in progress PL status page which uses **real-time**
-    data from our [GitHub repository](https://github.com/vesahc/upptime-pln).
+    data from our [GitHub repository](https://github.com/$OWNER/$REPO).
   navbar:
   - title: Status
     href: /
