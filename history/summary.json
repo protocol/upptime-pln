@@ -1991,18 +1991,20 @@
     "url": "https://latam22.sbs.tech",
     "icon": "https://icons.duckduckgo.com/ip3/latam22.sbs.tech.ico",
     "slug": "latam22-sbs-tech",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 749,
-    "timeDay": 763,
-    "timeWeek": 861,
-    "timeMonth": 749,
-    "timeYear": 749,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 880,
+    "timeDay": 3120,
+    "timeWeek": 1322,
+    "timeMonth": 880,
+    "timeYear": 880,
+    "dailyMinutesDown": {
+      "2023-09-18": 2
+    }
   },
   {
     "name": "legacy-docs.filecoin.io",
@@ -3587,7 +3589,7 @@
     "uptimeYear": "100.00%",
     "time": 312,
     "timeDay": 196,
-    "timeWeek": 282,
+    "timeWeek": 269,
     "timeMonth": 312,
     "timeYear": 312,
     "dailyMinutesDown": {}
