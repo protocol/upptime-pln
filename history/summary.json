@@ -1991,19 +1991,19 @@
     "url": "https://latam22.sbs.tech",
     "icon": "https://icons.duckduckgo.com/ip3/latam22.sbs.tech.ico",
     "slug": "latam22-sbs-tech",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.86%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 880,
-    "timeDay": 3120,
-    "timeWeek": 1322,
-    "timeMonth": 880,
-    "timeYear": 880,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.56%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 872,
+    "timeDay": 2266,
+    "timeWeek": 1253,
+    "timeMonth": 872,
+    "timeYear": 872,
     "dailyMinutesDown": {
-      "2023-09-18": 2
+      "2023-09-18": 6
     }
   },
   {
