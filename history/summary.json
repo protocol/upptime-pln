@@ -1534,11 +1534,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/filecoinunleashed.io.ico",
     "slug": "filecoinunleashed-io",
     "status": "up",
-    "uptime": "99.83%",
+    "uptime": "99.84%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.80%",
-    "uptimeMonth": "99.83%",
-    "uptimeYear": "99.83%",
+    "uptimeMonth": "99.84%",
+    "uptimeYear": "99.84%",
     "time": 1377,
     "timeDay": 524,
     "timeWeek": 1938,
@@ -2428,10 +2428,10 @@
     "url": "https://pln.mosaia.io",
     "icon": "https://icons.duckduckgo.com/ip3/pln.mosaia.io.ico",
     "slug": "pln-mosaia-io",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 990,
@@ -2439,7 +2439,9 @@
     "timeWeek": 835,
     "timeMonth": 990,
     "timeYear": 990,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-09-19": 2
+    }
   },
   {
     "name": "plsummit.labweek.io",
