@@ -2428,19 +2428,19 @@
     "url": "https://pln.mosaia.io",
     "icon": "https://icons.duckduckgo.com/ip3/pln.mosaia.io.ico",
     "slug": "pln-mosaia-io",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 990,
-    "timeDay": 899,
-    "timeWeek": 835,
-    "timeMonth": 990,
-    "timeYear": 990,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.46%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 985,
+    "timeDay": 861,
+    "timeWeek": 834,
+    "timeMonth": 985,
+    "timeYear": 985,
     "dailyMinutesDown": {
-      "2023-09-19": 2
+      "2023-09-19": 8
     }
   },
   {
