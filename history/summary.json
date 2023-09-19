@@ -2428,19 +2428,19 @@
     "url": "https://pln.mosaia.io",
     "icon": "https://icons.duckduckgo.com/ip3/pln.mosaia.io.ico",
     "slug": "pln-mosaia-io",
-    "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.46%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "status": "down",
+    "uptime": "99.97%",
+    "uptimeDay": "99.28%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
     "time": 985,
     "timeDay": 861,
     "timeWeek": 834,
     "timeMonth": 985,
     "timeYear": 985,
     "dailyMinutesDown": {
-      "2023-09-19": 8
+      "2023-09-19": 11
     }
   },
   {
@@ -3694,19 +3694,19 @@
     "url": "https://www.mosaia.io",
     "icon": "https://icons.duckduckgo.com/ip3/www.mosaia.io.ico",
     "slug": "www-mosaia-io",
-    "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.62%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.47%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 1054,
     "timeDay": 1459,
     "timeWeek": 991,
     "timeMonth": 1054,
     "timeYear": 1054,
     "dailyMinutesDown": {
-      "2023-09-19": 5
+      "2023-09-19": 7
     }
   },
   {
