@@ -2428,10 +2428,10 @@
     "url": "https://pln.mosaia.io",
     "icon": "https://icons.duckduckgo.com/ip3/pln.mosaia.io.ico",
     "slug": "pln-mosaia-io",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "98.99%",
-    "uptimeWeek": "99.86%",
+    "uptimeDay": "98.83%",
+    "uptimeWeek": "99.83%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.96%",
     "time": 1183,
@@ -2440,7 +2440,7 @@
     "timeMonth": 1183,
     "timeYear": 1183,
     "dailyMinutesDown": {
-      "2023-09-19": 15
+      "2023-09-19": 17
     }
   },
   {
