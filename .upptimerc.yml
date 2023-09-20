@@ -189,6 +189,8 @@ sites:
   url: https://green.filecoin.io
 - name: hackathons.filecoin.io
   url: https://hackathons.filecoin.io
+- name: helia.io
+  url: https://helia.io
 - name: igis.io
   url: https://igis.io
 - name: impactevaluator.io
