@@ -1,7 +1,7 @@
 url: https://dev.metaverse.filecoin.io
-status: up
-code: 200
-responseTime: 611
-lastUpdated: 2023-09-21T23:05:27.792Z
+status: down
+code: 502
+responseTime: 212
+lastUpdated: 2023-09-22T02:45:55.986Z
 startTime: 2023-08-23T20:00:33.757Z
 generator: Upptime <https://github.com/upptime/upptime>
