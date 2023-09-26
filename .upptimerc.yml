@@ -405,6 +405,8 @@ sites:
   url: https://www.filstation.app
 - name: www.ipfs.io
   url: https://www.ipfs.io
+- name: www.ipfspinningsummit.com
+  url: https://www.ipfspinningsummit.com
 - name: www.mosaia.io
   url: https://www.mosaia.io
 - name: www.plnetwork.io
