@@ -225,18 +225,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/awesome.ipfs.io.ico",
     "slug": "awesome-ipfs-io",
     "status": "down",
-    "uptime": "98.62%",
-    "uptimeDay": "52.94%",
-    "uptimeWeek": "93.28%",
+    "uptime": "98.61%",
+    "uptimeDay": "52.78%",
+    "uptimeWeek": "93.25%",
     "uptimeMonth": "98.45%",
-    "uptimeYear": "98.62%",
+    "uptimeYear": "98.61%",
     "time": 366,
     "timeDay": 152,
     "timeWeek": 328,
     "timeMonth": 369,
     "timeYear": 366,
     "dailyMinutesDown": {
-      "2023-09-26": 677
+      "2023-09-26": 680
     }
   },
   {
@@ -1788,11 +1788,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/helia.io.ico",
     "slug": "helia-io",
     "status": "up",
-    "uptime": "88.14%",
+    "uptime": "88.15%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "88.14%",
-    "uptimeYear": "88.14%",
+    "uptimeMonth": "88.15%",
+    "uptimeYear": "88.15%",
     "time": 198,
     "timeDay": 207,
     "timeWeek": 198,
