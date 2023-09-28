@@ -1802,11 +1802,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/helia.io.ico",
     "slug": "helia-io",
     "status": "up",
-    "uptime": "91.03%",
+    "uptime": "91.04%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "91.03%",
-    "uptimeYear": "91.03%",
+    "uptimeMonth": "91.04%",
+    "uptimeYear": "91.04%",
     "time": 215,
     "timeDay": 288,
     "timeWeek": 228,
@@ -4216,7 +4216,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-09-28": 87
+      "2023-09-28": 88
     }
   },
   {
@@ -4236,7 +4236,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-09-28": 66
+      "2023-09-28": 67
     }
   },
   {
