@@ -23,8 +23,6 @@ sites:
   url: https://arewedistributedyet.com
 - name: arg.protocol.ai
   url: https://arg.protocol.ai
-- name: awesome.ipfs.io
-  url: https://awesome.ipfs.io
 - name: awesome.ipfs.tech
   url: https://awesome.ipfs.tech
 - name: badbits.dwebops.pub
@@ -87,6 +85,8 @@ sites:
   url: https://datatogether.org
 - name: demo.mosaia.io
   url: https://demo.mosaia.io
+- name: destor.com
+  url: https://destor.com
 - name: dev.green.filecoin.io
   url: https://dev.green.filecoin.io
 - name: dev.metaverse.filecoin.io
@@ -151,6 +151,8 @@ sites:
   url: https://fa.wikipedia-on-ipfs.org
 - name: fil-safts.com
   url: https://fil-safts.com
+- name: fil.page
+  url: https://fil.page
 - name: fil.space
   url: https://fil.space
 - name: fildev.io
@@ -163,6 +165,8 @@ sites:
   url: https://filecoin.io
 - name: filecoindata.tools
   url: https://filecoindata.tools
+- name: filecoingreen.io
+  url: https://filecoingreen.io
 - name: filecointldr.io
   url: https://filecointldr.io
 - name: filecoinunleashed.io
@@ -211,6 +215,8 @@ sites:
   url: https://ipfscluster.io
 - name: ipfsevents.io
   url: https://ipfsevents.io
+- name: ipfspinningsummit.com
+  url: https://ipfspinningsummit.com
 - name: ipld.io
   url: https://ipld.io
 - name: js.ipfs.io
@@ -257,6 +263,8 @@ sites:
   url: https://orbitcommunity.filecoin.io
 - name: overall.filecoin-goldenretriever.io
   url: https://overall.filecoin-goldenretriever.io
+- name: p2p.link
+  url: https://p2p.link
 - name: paris22.sbs.tech
   url: https://paris22.sbs.tech
 - name: pastelock.drand.love
@@ -341,6 +349,8 @@ sites:
   url: https://staging.plnetwork.io
 - name: starmap.site
   url: https://starmap.site
+- name: stats.singularity.storage
+  url: https://stats.singularity.storage
 - name: status.drand.love
   url: https://status.drand.love
 - name: status.filecoin.io
@@ -397,18 +407,58 @@ sites:
   url: https://wrtc-star2.sjc.dwebops.pub
 - name: www.atlas.storage
   url: https://www.atlas.storage
+- name: www.buildingweb3.com
+  url: https://www.buildingweb3.com
 - name: www.cod.cloud
   url: https://www.cod.cloud
+- name: www.cryptoeconlab.io
+  url: https://www.cryptoeconlab.io
+- name: www.drand.love
+  url: https://www.drand.love
+- name: www.fil.space
+  url: https://www.fil.space
 - name: www.filecoin-goldenretriever.io
   url: https://www.filecoin-goldenretriever.io
+- name: www.filecoin.io
+  url: https://www.filecoin.io
+- name: www.filecoingreen.io
+  url: https://www.filecoingreen.io
 - name: www.filstation.app
   url: https://www.filstation.app
+- name: www.ipc.space
+  url: https://www.ipc.space
 - name: www.ipfs.io
   url: https://www.ipfs.io
+- name: www.ipfs.network
+  url: https://www.ipfs.network
+- name: www.ipfs.tech
+  url: https://www.ipfs.tech
+- name: www.ipfspinningsummit.com
+  url: https://www.ipfspinningsummit.com
+- name: www.lilium.sh
+  url: https://www.lilium.sh
+- name: www.microgen.site
+  url: https://www.microgen.site
 - name: www.mosaia.io
   url: https://www.mosaia.io
+- name: www.multiformats.io
+  url: https://www.multiformats.io
+- name: www.nftschool.dev
+  url: https://www.nftschool.dev
+- name: www.pl-launchpad.io
+  url: https://www.pl-launchpad.io
 - name: www.plnetwork.io
   url: https://www.plnetwork.io
+- name: www.protocol.ai
+  url: https://www.protocol.ai
+- name: www.saft-project.com
+  url: https://www.saft-project.com
+- name: www.saft-project.org
+  url: https://www.saft-project.org
+- name: www.saftproject.com
+  url: https://www.saftproject.com
+- name: www.singularity.storage
+  url: https://www.singularity.storage
 - name: zh.dev.wikipedia-on-ipfs.org
   url: https://zh.dev.wikipedia-on-ipfs.org
 - name: zh.wikipedia-on-ipfs.org
