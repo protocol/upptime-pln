@@ -23,8 +23,6 @@ sites:
   url: https://arewedistributedyet.com
 - name: arg.protocol.ai
   url: https://arg.protocol.ai
-- name: awesome.ipfs.io
-  url: https://awesome.ipfs.io
 - name: awesome.ipfs.tech
   url: https://awesome.ipfs.tech
 - name: badbits.dwebops.pub
