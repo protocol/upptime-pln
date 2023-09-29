@@ -2194,19 +2194,19 @@
     "url": "https://lotus.filecoin.io",
     "icon": "https://icons.duckduckgo.com/ip3/lotus.filecoin.io.ico",
     "slug": "lotus-filecoin-io",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.84%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "100.00%",
-    "time": 203,
-    "timeDay": 258,
-    "timeWeek": 250,
-    "timeMonth": 194,
-    "timeYear": 203,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.42%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 201,
+    "timeDay": 206,
+    "timeWeek": 236,
+    "timeMonth": 192,
+    "timeYear": 201,
     "dailyMinutesDown": {
-      "2023-09-29": 2
+      "2023-09-29": 8
     }
   },
   {
