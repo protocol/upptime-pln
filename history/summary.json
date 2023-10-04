@@ -1038,10 +1038,10 @@
     "url": "https://dnslink.org",
     "icon": "https://icons.duckduckgo.com/ip3/dnslink.org.ico",
     "slug": "dnslink-org",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 445,
@@ -1049,7 +1049,9 @@
     "timeWeek": 461,
     "timeMonth": 432,
     "timeYear": 445,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-10-04": 2
+    }
   },
   {
     "name": "docs.filecoin.io",
@@ -1812,11 +1814,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/helia.io.ico",
     "slug": "helia-io",
     "status": "up",
-    "uptime": "94.69%",
+    "uptime": "94.71%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "94.69%",
-    "uptimeYear": "94.69%",
+    "uptimeMonth": "94.71%",
+    "uptimeYear": "94.71%",
     "time": 200,
     "timeDay": 278,
     "timeWeek": 192,
@@ -2761,10 +2763,10 @@
     "url": "https://retrieval.market",
     "icon": "https://icons.duckduckgo.com/ip3/retrieval.market.ico",
     "slug": "retrieval-market",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 636,
@@ -2772,7 +2774,9 @@
     "timeWeek": 699,
     "timeMonth": 631,
     "timeYear": 636,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-10-04": 2
+    }
   },
   {
     "name": "rfs.fvm.dev",
@@ -2887,10 +2891,10 @@
     "url": "https://saturn.tech",
     "icon": "https://icons.duckduckgo.com/ip3/saturn.tech.ico",
     "slug": "saturn-tech",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 151,
@@ -2898,7 +2902,9 @@
     "timeWeek": 145,
     "timeMonth": 150,
     "timeYear": 151,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-10-04": 2
+    }
   },
   {
     "name": "sbs.tech",
