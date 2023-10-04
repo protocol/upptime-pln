@@ -280,10 +280,10 @@
     "url": "https://bifrost-gateway.ipfs.io",
     "icon": "https://icons.duckduckgo.com/ip3/bifrost-gateway.ipfs.io.ico",
     "slug": "bifrost-gateway-ipfs-io",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "98.18%",
-    "uptimeWeek": "99.74%",
+    "uptimeDay": "98.04%",
+    "uptimeWeek": "99.72%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.96%",
     "time": 113,
@@ -292,7 +292,7 @@
     "timeMonth": 109,
     "timeYear": 113,
     "dailyMinutesDown": {
-      "2023-10-04": 26
+      "2023-10-04": 28
     }
   },
   {
@@ -2676,18 +2676,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/randomplanetfacts.xyz.ico",
     "slug": "randomplanetfacts-xyz",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.85%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "99.40%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
     "time": 127,
     "timeDay": 115,
     "timeWeek": 147,
     "timeMonth": 121,
     "timeYear": 127,
     "dailyMinutesDown": {
-      "2023-10-04": 2
+      "2023-10-04": 9
     }
   },
   {
