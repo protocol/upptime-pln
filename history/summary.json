@@ -280,19 +280,19 @@
     "url": "https://bifrost-gateway.ipfs.io",
     "icon": "https://icons.duckduckgo.com/ip3/bifrost-gateway.ipfs.io.ico",
     "slug": "bifrost-gateway-ipfs-io",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.15%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.98%",
-    "time": 112,
-    "timeDay": 39,
-    "timeWeek": 128,
-    "timeMonth": 107,
-    "timeYear": 112,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "98.18%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.96%",
+    "time": 113,
+    "timeDay": 78,
+    "timeWeek": 131,
+    "timeMonth": 109,
+    "timeYear": 113,
     "dailyMinutesDown": {
-      "2023-10-04": 12
+      "2023-10-04": 26
     }
   },
   {
@@ -2675,18 +2675,20 @@
     "url": "https://randomplanetfacts.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/randomplanetfacts.xyz.ico",
     "slug": "randomplanetfacts-xyz",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 126,
-    "timeDay": 61,
-    "timeWeek": 144,
-    "timeMonth": 119,
-    "timeYear": 126,
-    "dailyMinutesDown": {}
+    "time": 127,
+    "timeDay": 115,
+    "timeWeek": 147,
+    "timeMonth": 121,
+    "timeYear": 127,
+    "dailyMinutesDown": {
+      "2023-10-04": 2
+    }
   },
   {
     "name": "recursive.ipfs.io",
