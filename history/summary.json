@@ -280,19 +280,19 @@
     "url": "https://bifrost-gateway.ipfs.io",
     "icon": "https://icons.duckduckgo.com/ip3/bifrost-gateway.ipfs.io.ico",
     "slug": "bifrost-gateway-ipfs-io",
-    "status": "down",
-    "uptime": "99.89%",
-    "uptimeDay": "95.09%",
-    "uptimeWeek": "99.30%",
-    "uptimeMonth": "99.84%",
-    "uptimeYear": "99.89%",
-    "time": 110,
-    "timeDay": 57,
-    "timeWeek": 111,
-    "timeMonth": 104,
-    "timeYear": 110,
+    "status": "up",
+    "uptime": "99.88%",
+    "uptimeDay": "94.76%",
+    "uptimeWeek": "99.25%",
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "99.88%",
+    "time": 109,
+    "timeDay": 54,
+    "timeWeek": 106,
+    "timeMonth": 103,
+    "timeYear": 109,
     "dailyMinutesDown": {
-      "2023-10-04": 71
+      "2023-10-04": 76
     }
   },
   {
