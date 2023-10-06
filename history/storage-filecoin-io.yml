@@ -1,7 +1,7 @@
 url: https://storage.filecoin.io
-status: down
-code: 502
-responseTime: 462
-lastUpdated: 2023-10-06T16:37:35.002Z
+status: up
+code: 200
+responseTime: 240
+lastUpdated: 2023-10-06T16:44:27.870Z
 startTime: 2023-08-23T20:02:31.702Z
 generator: Upptime <https://github.com/upptime/upptime>
