@@ -1006,18 +1006,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/dnslink.dev.ico",
     "slug": "dnslink-dev",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.82%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "99.34%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
     "time": 609,
     "timeDay": 347,
     "timeWeek": 653,
     "timeMonth": 624,
     "timeYear": 609,
     "dailyMinutesDown": {
-      "2023-10-08": 3
+      "2023-10-08": 10
     }
   },
   {
@@ -1026,18 +1026,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/dnslink.io.ico",
     "slug": "dnslink-io",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.87%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "99.39%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
     "time": 445,
     "timeDay": 201,
     "timeWeek": 507,
     "timeMonth": 489,
     "timeYear": 445,
     "dailyMinutesDown": {
-      "2023-10-08": 2
+      "2023-10-08": 9
     }
   },
   {
@@ -1045,11 +1045,11 @@
     "url": "https://dnslink.org",
     "icon": "https://icons.duckduckgo.com/ip3/dnslink.org.ico",
     "slug": "dnslink-org",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.99%",
     "time": 441,
     "timeDay": 25,
@@ -1057,6 +1057,7 @@
     "timeMonth": 426,
     "timeYear": 441,
     "dailyMinutesDown": {
+      "2023-10-08": 2,
       "2023-10-04": 6
     }
   },
