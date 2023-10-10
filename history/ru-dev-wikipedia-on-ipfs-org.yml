@@ -1,7 +1,7 @@
 url: https://ru.dev.wikipedia-on-ipfs.org
-status: up
-code: 200
-responseTime: 37
-lastUpdated: 2023-10-09T23:06:34.840Z
+status: down
+code: 502
+responseTime: 252
+lastUpdated: 2023-10-10T17:48:56.512Z
 startTime: 2023-08-23T20:02:01.453Z
 generator: Upptime <https://github.com/upptime/upptime>
