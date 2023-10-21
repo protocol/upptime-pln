@@ -1062,10 +1062,10 @@
     "url": "https://dnslink.org",
     "icon": "https://icons.duckduckgo.com/ip3/dnslink.org.ico",
     "slug": "dnslink-org",
-    "status": "up",
+    "status": "down",
     "uptime": "98.08%",
-    "uptimeDay": "99.04%",
-    "uptimeWeek": "99.86%",
+    "uptimeDay": "98.93%",
+    "uptimeWeek": "99.85%",
     "uptimeMonth": "96.12%",
     "uptimeYear": "98.08%",
     "time": 413,
@@ -1074,7 +1074,7 @@
     "timeMonth": 376,
     "timeYear": 413,
     "dailyMinutesDown": {
-      "2023-10-21": 14,
+      "2023-10-21": 16,
       "2023-10-09": 835,
       "2023-10-08": 845,
       "2023-10-04": 6
