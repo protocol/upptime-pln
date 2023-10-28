@@ -152,7 +152,7 @@
     "slug": "ar-wikipedia-on-ipfs-org",
     "status": "up",
     "uptime": "98.58%",
-    "uptimeDay": "9.56%",
+    "uptimeDay": "10.41%",
     "uptimeWeek": "86.68%",
     "uptimeMonth": "96.93%",
     "uptimeYear": "98.58%",
@@ -318,7 +318,7 @@
     "slug": "blocks-ipfs-io",
     "status": "up",
     "uptime": "98.59%",
-    "uptimeDay": "6.48%",
+    "uptimeDay": "7.33%",
     "uptimeWeek": "86.27%",
     "uptimeMonth": "96.84%",
     "uptimeYear": "98.59%",
@@ -910,18 +910,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/dev.webui.ipfs.io.ico",
     "slug": "dev-webui-ipfs-io",
     "status": "up",
-    "uptime": "99.63%",
-    "uptimeDay": "75.60%",
-    "uptimeWeek": "96.35%",
-    "uptimeMonth": "99.16%",
-    "uptimeYear": "99.63%",
+    "uptime": "99.61%",
+    "uptimeDay": "74.77%",
+    "uptimeWeek": "96.23%",
+    "uptimeMonth": "99.13%",
+    "uptimeYear": "99.61%",
     "time": 246,
     "timeDay": 2057,
     "timeWeek": 1018,
     "timeMonth": 401,
     "timeYear": 246,
     "dailyMinutesDown": {
-      "2023-10-28": 351,
+      "2023-10-28": 363,
       "2023-10-27": 17
     }
   },
@@ -1008,18 +1008,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/dist.ipfs.io.ico",
     "slug": "dist-ipfs-io",
     "status": "up",
-    "uptime": "98.64%",
+    "uptime": "98.63%",
     "uptimeDay": "9.38%",
-    "uptimeWeek": "86.70%",
-    "uptimeMonth": "96.94%",
-    "uptimeYear": "98.64%",
+    "uptimeWeek": "86.58%",
+    "uptimeMonth": "96.91%",
+    "uptimeYear": "98.63%",
     "time": 189,
     "timeDay": 894,
     "timeWeek": 598,
     "timeMonth": 285,
     "timeYear": 189,
     "dailyMinutesDown": {
-      "2023-10-28": 577,
+      "2023-10-28": 589,
       "2023-10-27": 762
     }
   },
@@ -1028,19 +1028,19 @@
     "url": "https://dist.ipfs.tech",
     "icon": "https://icons.duckduckgo.com/ip3/dist.ipfs.tech.ico",
     "slug": "dist-ipfs-tech",
-    "status": "up",
-    "uptime": "98.62%",
+    "status": "down",
+    "uptime": "98.61%",
     "uptimeDay": "8.33%",
-    "uptimeWeek": "86.56%",
-    "uptimeMonth": "96.91%",
-    "uptimeYear": "98.62%",
+    "uptimeWeek": "86.44%",
+    "uptimeMonth": "96.88%",
+    "uptimeYear": "98.61%",
     "time": 192,
     "timeDay": 1402,
     "timeWeek": 716,
     "timeMonth": 295,
     "timeYear": 192,
     "dailyMinutesDown": {
-      "2023-10-28": 594,
+      "2023-10-28": 606,
       "2023-10-27": 761
     }
   },
@@ -1341,18 +1341,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/en.dev.wikipedia-on-ipfs.org.ico",
     "slug": "en-dev-wikipedia-on-ipfs-org",
     "status": "up",
-    "uptime": "99.76%",
-    "uptimeDay": "84.11%",
-    "uptimeWeek": "97.73%",
-    "uptimeMonth": "99.48%",
-    "uptimeYear": "99.76%",
+    "uptime": "99.75%",
+    "uptimeDay": "83.28%",
+    "uptimeWeek": "97.61%",
+    "uptimeMonth": "99.45%",
+    "uptimeYear": "99.75%",
     "time": 260,
     "timeDay": 1153,
     "timeWeek": 680,
     "timeMonth": 328,
     "timeYear": 260,
     "dailyMinutesDown": {
-      "2023-10-28": 229
+      "2023-10-28": 241
     }
   },
   {
@@ -1361,18 +1361,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/en.wikipedia-on-ipfs.org.ico",
     "slug": "en-wikipedia-on-ipfs-org",
     "status": "up",
-    "uptime": "99.73%",
-    "uptimeDay": "82.43%",
-    "uptimeWeek": "97.49%",
-    "uptimeMonth": "99.42%",
-    "uptimeYear": "99.73%",
+    "uptime": "99.72%",
+    "uptimeDay": "81.60%",
+    "uptimeWeek": "97.37%",
+    "uptimeMonth": "99.40%",
+    "uptimeYear": "99.72%",
     "time": 308,
     "timeDay": 1564,
     "timeWeek": 1004,
     "timeMonth": 448,
     "timeYear": 308,
     "dailyMinutesDown": {
-      "2023-10-28": 254
+      "2023-10-28": 266
     }
   },
   {
@@ -1758,19 +1758,19 @@
     "url": "https://flipchart.peerpad.net",
     "icon": "https://icons.duckduckgo.com/ip3/flipchart.peerpad.net.ico",
     "slug": "flipchart-peerpad-net",
-    "status": "up",
-    "uptime": "99.72%",
-    "uptimeDay": "81.03%",
-    "uptimeWeek": "97.29%",
-    "uptimeMonth": "99.38%",
-    "uptimeYear": "99.72%",
+    "status": "down",
+    "uptime": "99.71%",
+    "uptimeDay": "80.21%",
+    "uptimeWeek": "97.17%",
+    "uptimeMonth": "99.35%",
+    "uptimeYear": "99.71%",
     "time": 207,
     "timeDay": 1105,
     "timeWeek": 626,
     "timeMonth": 277,
     "timeYear": 207,
     "dailyMinutesDown": {
-      "2023-10-28": 274
+      "2023-10-28": 285
     }
   },
   {
@@ -2358,19 +2358,19 @@
     "url": "https://my.dev.wikipedia-on-ipfs.org",
     "icon": "https://icons.duckduckgo.com/ip3/my.dev.wikipedia-on-ipfs.org.ico",
     "slug": "my-dev-wikipedia-on-ipfs-org",
-    "status": "up",
-    "uptime": "99.64%",
-    "uptimeDay": "76.13%",
-    "uptimeWeek": "96.59%",
-    "uptimeMonth": "99.22%",
-    "uptimeYear": "99.64%",
+    "status": "down",
+    "uptime": "99.63%",
+    "uptimeDay": "75.69%",
+    "uptimeWeek": "96.53%",
+    "uptimeMonth": "99.20%",
+    "uptimeYear": "99.63%",
     "time": 170,
     "timeDay": 210,
     "timeWeek": 160,
     "timeMonth": 158,
     "timeYear": 170,
     "dailyMinutesDown": {
-      "2023-10-28": 343
+      "2023-10-28": 349
     }
   },
   {
@@ -2608,18 +2608,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/peerpad.net.ico",
     "slug": "peerpad-net",
     "status": "up",
-    "uptime": "99.76%",
-    "uptimeDay": "83.66%",
-    "uptimeWeek": "97.67%",
-    "uptimeMonth": "99.46%",
-    "uptimeYear": "99.76%",
+    "uptime": "99.75%",
+    "uptimeDay": "82.86%",
+    "uptimeWeek": "97.55%",
+    "uptimeMonth": "99.44%",
+    "uptimeYear": "99.75%",
     "time": 149,
     "timeDay": 154,
     "timeWeek": 140,
     "timeMonth": 134,
     "timeYear": 149,
     "dailyMinutesDown": {
-      "2023-10-28": 235
+      "2023-10-28": 247
     }
   },
   {
@@ -2689,19 +2689,19 @@
     "url": "https://project-repos.ipfs.io",
     "icon": "https://icons.duckduckgo.com/ip3/project-repos.ipfs.io.ico",
     "slug": "project-repos-ipfs-io",
-    "status": "up",
-    "uptime": "99.69%",
-    "uptimeDay": "79.51%",
-    "uptimeWeek": "97.07%",
-    "uptimeMonth": "99.31%",
-    "uptimeYear": "99.69%",
+    "status": "down",
+    "uptime": "99.68%",
+    "uptimeDay": "78.70%",
+    "uptimeWeek": "96.96%",
+    "uptimeMonth": "99.29%",
+    "uptimeYear": "99.68%",
     "time": 302,
     "timeDay": 1577,
     "timeWeek": 970,
     "timeMonth": 484,
     "timeYear": 302,
     "dailyMinutesDown": {
-      "2023-10-28": 294,
+      "2023-10-28": 306,
       "2023-10-10": 6
     }
   },
@@ -2792,19 +2792,19 @@
     "url": "https://recursive.ipfs.io",
     "icon": "https://icons.duckduckgo.com/ip3/recursive.ipfs.io.ico",
     "slug": "recursive-ipfs-io",
-    "status": "up",
-    "uptime": "99.74%",
-    "uptimeDay": "82.46%",
-    "uptimeWeek": "97.49%",
-    "uptimeMonth": "99.41%",
-    "uptimeYear": "99.74%",
+    "status": "down",
+    "uptime": "99.73%",
+    "uptimeDay": "82.15%",
+    "uptimeWeek": "97.45%",
+    "uptimeMonth": "99.40%",
+    "uptimeYear": "99.73%",
     "time": 258,
     "timeDay": 1084,
     "timeWeek": 635,
     "timeMonth": 265,
     "timeYear": 258,
     "dailyMinutesDown": {
-      "2023-10-28": 252,
+      "2023-10-28": 256,
       "2023-10-10": 6
     }
   },
@@ -2914,18 +2914,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/ru.dev.wikipedia-on-ipfs.org.ico",
     "slug": "ru-dev-wikipedia-on-ipfs-org",
     "status": "up",
-    "uptime": "99.69%",
-    "uptimeDay": "80.32%",
-    "uptimeWeek": "97.19%",
-    "uptimeMonth": "99.34%",
-    "uptimeYear": "99.69%",
+    "uptime": "99.68%",
+    "uptimeDay": "79.52%",
+    "uptimeWeek": "97.07%",
+    "uptimeMonth": "99.31%",
+    "uptimeYear": "99.68%",
     "time": 301,
     "timeDay": 1580,
     "timeWeek": 989,
     "timeMonth": 428,
     "timeYear": 301,
     "dailyMinutesDown": {
-      "2023-10-28": 284,
+      "2023-10-28": 295,
       "2023-10-10": 6
     }
   },
@@ -3521,18 +3521,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/tr.wikipedia-on-ipfs.org.ico",
     "slug": "tr-wikipedia-on-ipfs-org",
     "status": "up",
-    "uptime": "99.66%",
-    "uptimeDay": "77.55%",
-    "uptimeWeek": "96.79%",
-    "uptimeMonth": "99.26%",
-    "uptimeYear": "99.66%",
+    "uptime": "99.65%",
+    "uptimeDay": "76.75%",
+    "uptimeWeek": "96.68%",
+    "uptimeMonth": "99.24%",
+    "uptimeYear": "99.65%",
     "time": 280,
     "timeDay": 1771,
     "timeWeek": 1038,
     "timeMonth": 431,
     "timeYear": 280,
     "dailyMinutesDown": {
-      "2023-10-28": 323
+      "2023-10-28": 335
     }
   },
   {
@@ -3541,18 +3541,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/trusted-setup-snapdeals.filecoin.io.ico",
     "slug": "trusted-setup-snapdeals-filecoin-io",
     "status": "up",
-    "uptime": "99.83%",
-    "uptimeDay": "88.29%",
-    "uptimeWeek": "98.33%",
-    "uptimeMonth": "99.61%",
-    "uptimeYear": "99.83%",
+    "uptime": "99.82%",
+    "uptimeDay": "87.49%",
+    "uptimeWeek": "98.21%",
+    "uptimeMonth": "99.59%",
+    "uptimeYear": "99.82%",
     "time": 234,
     "timeDay": 1068,
     "timeWeek": 660,
     "timeMonth": 312,
     "timeYear": 234,
     "dailyMinutesDown": {
-      "2023-10-28": 169
+      "2023-10-28": 181
     }
   },
   {
@@ -3560,19 +3560,19 @@
     "url": "https://trusted-setup.filecoin.io",
     "icon": "https://icons.duckduckgo.com/ip3/trusted-setup.filecoin.io.ico",
     "slug": "trusted-setup-filecoin-io",
-    "status": "up",
-    "uptime": "99.69%",
-    "uptimeDay": "78.49%",
-    "uptimeWeek": "96.93%",
+    "status": "down",
+    "uptime": "99.68%",
+    "uptimeDay": "78.35%",
+    "uptimeWeek": "96.91%",
     "uptimeMonth": "99.29%",
-    "uptimeYear": "99.69%",
+    "uptimeYear": "99.68%",
     "time": 268,
     "timeDay": 1782,
     "timeWeek": 1051,
     "timeMonth": 439,
     "timeYear": 268,
     "dailyMinutesDown": {
-      "2023-10-28": 311
+      "2023-10-28": 313
     }
   },
   {
@@ -3865,18 +3865,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/workshop.cluster.ipfs.io.ico",
     "slug": "workshop-cluster-ipfs-io",
     "status": "up",
-    "uptime": "99.73%",
-    "uptimeDay": "81.62%",
-    "uptimeWeek": "97.37%",
-    "uptimeMonth": "99.40%",
-    "uptimeYear": "99.73%",
+    "uptime": "99.72%",
+    "uptimeDay": "80.83%",
+    "uptimeWeek": "97.26%",
+    "uptimeMonth": "99.37%",
+    "uptimeYear": "99.72%",
     "time": 173,
     "timeDay": 1352,
     "timeWeek": 664,
     "timeMonth": 251,
     "timeYear": 173,
     "dailyMinutesDown": {
-      "2023-10-28": 264
+      "2023-10-28": 276
     }
   },
   {
@@ -4095,18 +4095,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/zh.wikipedia-on-ipfs.org.ico",
     "slug": "zh-wikipedia-on-ipfs-org",
     "status": "up",
-    "uptime": "99.71%",
-    "uptimeDay": "81.24%",
-    "uptimeWeek": "97.32%",
-    "uptimeMonth": "99.38%",
-    "uptimeYear": "99.71%",
+    "uptime": "99.70%",
+    "uptimeDay": "80.46%",
+    "uptimeWeek": "97.21%",
+    "uptimeMonth": "99.36%",
+    "uptimeYear": "99.70%",
     "time": 195,
     "timeDay": 1152,
     "timeWeek": 650,
     "timeMonth": 274,
     "timeYear": 195,
     "dailyMinutesDown": {
-      "2023-10-28": 270
+      "2023-10-28": 282
     }
   }
 ]
