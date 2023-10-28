@@ -1,7 +1,7 @@
 url: https://ar.dev.wikipedia-on-ipfs.org
-status: up
-code: 200
-responseTime: 372
-lastUpdated: 2023-10-28T07:59:50.927Z
+status: down
+code: 504
+responseTime: 5199
+lastUpdated: 2023-10-28T10:16:47.652Z
 startTime: 2023-08-23T20:00:00.659Z
 generator: Upptime <https://github.com/upptime/upptime>
