@@ -1,7 +1,7 @@
 url: https://webui.ipfs.io
-status: down
-code: 504
-responseTime: 5041
-lastUpdated: 2023-10-28T11:03:40.810Z
+status: up
+code: 200
+responseTime: 190
+lastUpdated: 2023-10-28T11:14:49.587Z
 startTime: 2023-08-21T03:55:59.964Z
 generator: Upptime <https://github.com/upptime/upptime>
