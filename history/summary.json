@@ -321,8 +321,8 @@
     "status": "up",
     "uptime": "95.32%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "52.79%",
-    "uptimeMonth": "89.14%",
+    "uptimeWeek": "52.72%",
+    "uptimeMonth": "89.12%",
     "uptimeYear": "95.32%",
     "time": 254,
     "timeDay": 31,
@@ -330,7 +330,7 @@
     "timeMonth": 399,
     "timeYear": 254,
     "dailyMinutesDown": {
-      "2023-10-30": 1221,
+      "2023-10-30": 1228,
       "2023-10-29": 1440,
       "2023-10-28": 1335,
       "2023-10-27": 764
@@ -663,19 +663,19 @@
     "url": "https://dag.house",
     "icon": "https://icons.duckduckgo.com/ip3/dag.house.ico",
     "slug": "dag-house",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "98.61%",
-    "uptimeWeek": "99.80%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "98.30%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.98%",
-    "time": 311,
-    "timeDay": 139,
-    "timeWeek": 295,
-    "timeMonth": 315,
-    "timeYear": 311,
+    "time": 309,
+    "timeDay": 125,
+    "timeWeek": 273,
+    "timeMonth": 308,
+    "timeYear": 309,
     "dailyMinutesDown": {
-      "2023-10-30": 20
+      "2023-10-30": 24
     }
   },
   {
@@ -1450,8 +1450,8 @@
     "status": "up",
     "uptime": "96.31%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "64.17%",
-    "uptimeMonth": "91.76%",
+    "uptimeWeek": "64.11%",
+    "uptimeMonth": "91.74%",
     "uptimeYear": "96.31%",
     "time": 291,
     "timeDay": 70,
@@ -1459,7 +1459,7 @@
     "timeMonth": 440,
     "timeYear": 291,
     "dailyMinutesDown": {
-      "2023-10-30": 1222,
+      "2023-10-30": 1228,
       "2023-10-29": 1440,
       "2023-10-28": 949
     }
@@ -2939,18 +2939,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/ru.dev.wikipedia-on-ipfs.org.ico",
     "slug": "ru-dev-wikipedia-on-ipfs-org",
     "status": "up",
-    "uptime": "96.25%",
+    "uptime": "96.24%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "63.58%",
-    "uptimeMonth": "91.61%",
-    "uptimeYear": "96.25%",
+    "uptimeWeek": "63.51%",
+    "uptimeMonth": "91.59%",
+    "uptimeYear": "96.24%",
     "time": 297,
     "timeDay": 35,
     "timeWeek": 932,
     "timeMonth": 429,
     "timeYear": 297,
     "dailyMinutesDown": {
-      "2023-10-30": 1223,
+      "2023-10-30": 1229,
       "2023-10-29": 1440,
       "2023-10-28": 1009,
       "2023-10-10": 6
@@ -3612,8 +3612,8 @@
     "status": "up",
     "uptime": "96.42%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "65.26%",
-    "uptimeMonth": "92.01%",
+    "uptimeWeek": "65.20%",
+    "uptimeMonth": "91.99%",
     "uptimeYear": "96.42%",
     "time": 215,
     "timeDay": 49,
@@ -3621,7 +3621,7 @@
     "timeMonth": 286,
     "timeYear": 215,
     "dailyMinutesDown": {
-      "2023-10-30": 1224,
+      "2023-10-30": 1230,
       "2023-10-29": 1440,
       "2023-10-28": 837
     }
@@ -4134,8 +4134,8 @@
     "status": "up",
     "uptime": "96.26%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "63.71%",
-    "uptimeMonth": "91.65%",
+    "uptimeWeek": "63.64%",
+    "uptimeMonth": "91.63%",
     "uptimeYear": "96.26%",
     "time": 193,
     "timeDay": 37,
@@ -4143,7 +4143,7 @@
     "timeMonth": 271,
     "timeYear": 193,
     "dailyMinutesDown": {
-      "2023-10-30": 1224,
+      "2023-10-30": 1230,
       "2023-10-29": 1440,
       "2023-10-28": 995
     }
