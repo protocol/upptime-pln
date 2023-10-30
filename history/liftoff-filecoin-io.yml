@@ -1,7 +1,7 @@
 url: https://liftoff.filecoin.io
-status: down
-code: 526
-responseTime: 912
-lastUpdated: 2023-10-30T06:00:45.627Z
+status: up
+code: 200
+responseTime: 651
+lastUpdated: 2023-10-30T06:09:21.211Z
 startTime: 2023-08-23T20:01:35.928Z
 generator: Upptime <https://github.com/upptime/upptime>
