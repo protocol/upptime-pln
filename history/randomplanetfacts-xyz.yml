@@ -1,7 +1,7 @@
 url: https://randomplanetfacts.xyz
-status: up
-code: 200
-responseTime: 182
-lastUpdated: 2023-11-16T12:57:44.679Z
+status: down
+code: 500
+responseTime: 54
+lastUpdated: 2023-11-16T13:49:34.233Z
 startTime: 2023-08-21T03:55:47.061Z
 generator: Upptime <https://github.com/upptime/upptime>
