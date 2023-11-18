@@ -1979,19 +1979,19 @@
     "url": "https://ipfs-thing.events",
     "icon": "https://icons.duckduckgo.com/ip3/ipfs-thing.events.ico",
     "slug": "ipfs-thing-events",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.82%",
-    "uptimeWeek": "99.97%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.55%",
+    "uptimeWeek": "99.94%",
     "uptimeMonth": "99.99%",
-    "uptimeYear": "100.00%",
-    "time": 647,
-    "timeDay": 381,
-    "timeWeek": 554,
-    "timeMonth": 572,
-    "timeYear": 647,
+    "uptimeYear": "99.99%",
+    "time": 651,
+    "timeDay": 609,
+    "timeWeek": 611,
+    "timeMonth": 588,
+    "timeYear": 651,
     "dailyMinutesDown": {
-      "2023-11-18": 3
+      "2023-11-18": 7
     }
   },
   {
