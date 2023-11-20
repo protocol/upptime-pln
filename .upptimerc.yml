@@ -21,6 +21,8 @@ sites:
   url: https://archive.discuss.filecoin.io
 - name: arewedistributedyet.com
   url: https://arewedistributedyet.com
+- name: areweinterplanetaryyet.org
+  url: https://areweinterplanetaryyet.org
 - name: arg.protocol.ai
   url: https://arg.protocol.ai
 - name: awesome.ipfs.tech
@@ -51,10 +53,6 @@ sites:
   url: https://car.ipfs.io
 - name: chain.love
   url: https://chain.love
-- name: check.ipfs.network
-  url: https://check.ipfs.network
-- name: cid.ipfs.io
-  url: https://cid.ipfs.io
 - name: cid.ipfs.tech
   url: https://cid.ipfs.tech
 - name: collab.ipfscluster.io
@@ -63,8 +61,6 @@ sites:
   url: https://conformance.ipfs.tech
 - name: connectivity.libp2p.io
   url: https://connectivity.libp2p.io
-- name: consensus-factory.io
-  url: https://consensus-factory.io
 - name: cryptoeconlab.io
   url: https://cryptoeconlab.io
 - name: dag.house
@@ -103,20 +99,14 @@ sites:
   url: https://dist.ipfs.io
 - name: dist.ipfs.tech
   url: https://dist.ipfs.tech
-- name: dnslink.dev
-  url: https://dnslink.dev
 - name: dnslink.io
   url: https://dnslink.io
 - name: dnslink.org
   url: https://dnslink.org
 - name: docs.filecoin.io
   url: https://docs.filecoin.io
-- name: docs.ipc.space
-  url: https://docs.ipc.space
 - name: docs.ipfs.io
   url: https://docs.ipfs.io
-- name: docs.ipfs.tech
-  url: https://docs.ipfs.tech
 - name: docs.libp2p.io
   url: https://docs.libp2p.io
 - name: docs.testground.ai
@@ -125,8 +115,6 @@ sites:
   url: https://drand.love
 - name: dweb-primer.ipfs.io
   url: https://dweb-primer.ipfs.io
-- name: earth23.sbs.tech
-  url: https://earth23.sbs.tech
 - name: ecosystem.filecoin.io
   url: https://ecosystem.filecoin.io
 - name: ecosystem.ipfs.io
@@ -163,8 +151,6 @@ sites:
   url: https://filecoin.io
 - name: filecoindata.tools
   url: https://filecoindata.tools
-- name: filecoinecosystem.io
-  url: https://filecoinecosystem.io
 - name: filecoingreen.io
   url: https://filecoingreen.io
 - name: filecointldr.io
@@ -187,28 +173,20 @@ sites:
   url: https://grants.protocol.ai
 - name: green.filecoin.io
   url: https://green.filecoin.io
-- name: hackathons.filecoin.io
-  url: https://hackathons.filecoin.io
 - name: helia.io
   url: https://helia.io
 - name: igis.io
   url: https://igis.io
 - name: impactevaluator.io
   url: https://impactevaluator.io
-- name: ipfs-project.org
-  url: https://ipfs-project.org
 - name: ipfs-thing.events
   url: https://ipfs-thing.events
 - name: ipfs.impactevaluator.io
   url: https://ipfs.impactevaluator.io
 - name: ipfs.network
   url: https://ipfs.network
-- name: ipfs.tech
-  url: https://ipfs.tech
 - name: ipfscluster.io
   url: https://ipfscluster.io
-- name: ipfsevents.io
-  url: https://ipfsevents.io
 - name: ipfspinningsummit.com
   url: https://ipfspinningsummit.com
 - name: ipld.io
@@ -225,8 +203,6 @@ sites:
   url: https://legacy.starmap.site
 - name: libp2p.io
   url: https://libp2p.io
-- name: liftoff.filecoin.io
-  url: https://liftoff.filecoin.io
 - name: lilium.sh
   url: https://lilium.sh
 - name: lotus.filecoin.io
@@ -243,32 +219,18 @@ sites:
   url: https://my.dev.wikipedia-on-ipfs.org
 - name: my.wikipedia-on-ipfs.org
   url: https://my.wikipedia-on-ipfs.org
-- name: nftschool.dev
-  url: https://nftschool.dev
 - name: nftstorage.link
   url: https://nftstorage.link
-- name: openpanda.io
-  url: https://openpanda.io
 - name: orbit.filecoin.io
   url: https://orbit.filecoin.io
 - name: orbitalburn.filecoin.io
   url: https://orbitalburn.filecoin.io
-- name: orbitcommunity.filecoin.io
-  url: https://orbitcommunity.filecoin.io
-- name: overall.filecoin-goldenretriever.io
-  url: https://overall.filecoin-goldenretriever.io
 - name: p2p.link
   url: https://p2p.link
 - name: paris22.sbs.tech
   url: https://paris22.sbs.tech
-- name: pastelock.drand.love
-  url: https://pastelock.drand.love
 - name: peerpad.net
   url: https://peerpad.net
-- name: pl-launchpad.io
-  url: https://pl-launchpad.io
-- name: project-repos.ipfs.io
-  url: https://project-repos.ipfs.io
 - name: proofs.filecoin.io
   url: https://proofs.filecoin.io
 - name: proto.school
@@ -279,26 +241,14 @@ sites:
   url: https://recursive.ipfs.io
 - name: refs.ipfs.io
   url: https://refs.ipfs.io
-- name: research.protocol.ai
-  url: https://research.protocol.ai
-- name: researchroadmaps.ai
-  url: https://researchroadmaps.ai
 - name: retrieval.market
   url: https://retrieval.market
-- name: rfs.fvm.dev
-  url: https://rfs.fvm.dev
 - name: ru.dev.wikipedia-on-ipfs.org
   url: https://ru.dev.wikipedia-on-ipfs.org
 - name: ru.wikipedia-on-ipfs.org
   url: https://ru.wikipedia-on-ipfs.org
-- name: saft-project.com
-  url: https://saft-project.com
 - name: saft-project.org
   url: https://saft-project.org
-- name: saftproject.com
-  url: https://saftproject.com
-- name: saturn.tech
-  url: https://saturn.tech
 - name: sbs.tech
   url: https://sbs.tech
 - name: security.filecoin.io
@@ -335,16 +285,12 @@ sites:
   url: https://staging.plnetwork.io
 - name: starmap.site
   url: https://starmap.site
-- name: stats.singularity.storage
-  url: https://stats.singularity.storage
 - name: status.drand.love
   url: https://status.drand.love
 - name: status.filecoin.io
   url: https://status.filecoin.io
 - name: storage.filecoin.io
   url: https://storage.filecoin.io
-- name: timeline.fvm.dev
-  url: https://timeline.fvm.dev
 - name: timevault.drand.love
   url: https://timevault.drand.love
 - name: tr.dev.wikipedia-on-ipfs.org
@@ -359,8 +305,6 @@ sites:
   url: https://uk.wikipedia-on-ipfs.org
 - name: uploads.slate.host
   url: https://uploads.slate.host
-- name: v2.slingshot.filecoin.io
-  url: https://v2.slingshot.filecoin.io
 - name: venus.filecoin.io
   url: https://venus.filecoin.io
 - name: webrtc-star.discovery.libp2p.io
@@ -369,8 +313,6 @@ sites:
   url: https://website.ipfs.io
 - name: webui.ipfs.io
   url: https://webui.ipfs.io
-- name: week1.filecoin-goldenretriever.io
-  url: https://week1.filecoin-goldenretriever.io
 - name: week2.filecoin-goldenretriever.io
   url: https://week2.filecoin-goldenretriever.io
 - name: week3.filecoin-goldenretriever.io
@@ -387,8 +329,6 @@ sites:
   url: https://week8.filecoin-goldenretriever.io
 - name: workshop.cluster.ipfs.io
   url: https://workshop.cluster.ipfs.io
-- name: wrtc-star1.par.dwebops.pub
-  url: https://wrtc-star1.par.dwebops.pub
 - name: wrtc-star2.sjc.dwebops.pub
   url: https://wrtc-star2.sjc.dwebops.pub
 - name: www.cod.cloud
@@ -397,8 +337,6 @@ sites:
   url: https://www.filecoin-goldenretriever.io
 - name: www.filstation.app
   url: https://www.filstation.app
-- name: www.ipfs.io
-  url: https://www.ipfs.io
 - name: www.plnetwork.io
   url: https://www.plnetwork.io
 - name: zh.dev.wikipedia-on-ipfs.org
