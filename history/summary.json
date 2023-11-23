@@ -1233,19 +1233,19 @@
     "url": "https://elegant-glowing.plnetwork.io",
     "icon": "https://icons.duckduckgo.com/ip3/elegant-glowing.plnetwork.io.ico",
     "slug": "elegant-glowing-plnetwork-io",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 263,
-    "timeDay": 172,
-    "timeWeek": 201,
-    "timeMonth": 223,
-    "timeYear": 263,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.33%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 261,
+    "timeDay": 130,
+    "timeWeek": 186,
+    "timeMonth": 218,
+    "timeYear": 261,
     "dailyMinutesDown": {
-      "2023-11-23": 2
+      "2023-11-23": 10
     }
   },
   {
