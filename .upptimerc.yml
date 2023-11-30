@@ -285,8 +285,6 @@ sites:
   url: https://shop.protocol.ai
 - name: singularity.storage
   url: https://singularity.storage
-- name: slate.host
-  url: https://slate.host
 - name: slingshot.filecoin.io
   url: https://slingshot.filecoin.io
 - name: spacerace.filecoin.io
@@ -327,8 +325,6 @@ sites:
   url: https://trusted-setup.filecoin.io
 - name: uk.wikipedia-on-ipfs.org
   url: https://uk.wikipedia-on-ipfs.org
-- name: uploads.slate.host
-  url: https://uploads.slate.host
 - name: venus.filecoin.io
   url: https://venus.filecoin.io
 - name: webrtc-star.discovery.libp2p.io
