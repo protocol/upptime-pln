@@ -119,6 +119,8 @@ sites:
   url: https://docs.ipfs.io
 - name: docs.ipfs.tech
   url: https://docs.ipfs.tech
+- name: docs.libp2p.io
+  url: https://docs.libp2p.io
 - name: docs.testground.ai
   url: https://docs.testground.ai
 - name: drand.love
