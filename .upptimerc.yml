@@ -53,6 +53,10 @@ sites:
   url: https://car.ipfs.io
 - name: chain.love
   url: https://chain.love
+- name: check.ipfs.network
+  url: https://check.ipfs.network
+- name: cid.ipfs.io
+  url: https://cid.ipfs.io
 - name: cid.ipfs.tech
   url: https://cid.ipfs.tech
 - name: collab.ipfscluster.io
@@ -109,10 +113,12 @@ sites:
   url: https://dnslink.org
 - name: docs.filecoin.io
   url: https://docs.filecoin.io
+- name: docs.ipc.space
+  url: https://docs.ipc.space
 - name: docs.ipfs.io
   url: https://docs.ipfs.io
-- name: docs.libp2p.io
-  url: https://docs.libp2p.io
+- name: docs.ipfs.tech
+  url: https://docs.ipfs.tech
 - name: docs.testground.ai
   url: https://docs.testground.ai
 - name: drand.love
@@ -179,6 +185,8 @@ sites:
   url: https://grants.protocol.ai
 - name: green.filecoin.io
   url: https://green.filecoin.io
+- name: hackathons.filecoin.io
+  url: https://hackathons.filecoin.io
 - name: helia.io
   url: https://helia.io
 - name: igis.io
@@ -191,6 +199,8 @@ sites:
   url: https://ipfs.impactevaluator.io
 - name: ipfs.network
   url: https://ipfs.network
+- name: ipfs.tech
+  url: https://ipfs.tech
 - name: ipfscluster.io
   url: https://ipfscluster.io
 - name: ipfsevents.io
@@ -233,6 +243,8 @@ sites:
   url: https://nftschool.dev
 - name: nftstorage.link
   url: https://nftstorage.link
+- name: openpanda.io
+  url: https://openpanda.io
 - name: orbit.filecoin.io
   url: https://orbit.filecoin.io
 - name: orbitalburn.filecoin.io
@@ -247,6 +259,8 @@ sites:
   url: https://pastelock.drand.love
 - name: peerpad.net
   url: https://peerpad.net
+- name: pl-launchpad.io
+  url: https://pl-launchpad.io
 - name: project-repos.ipfs.io
   url: https://project-repos.ipfs.io
 - name: proofs.filecoin.io
@@ -255,12 +269,16 @@ sites:
   url: https://proto.school
 - name: protocol.ai
   url: https://protocol.ai
+- name: randomplanetfacts.xyz
+  url: https://randomplanetfacts.xyz
 - name: recursive.ipfs.io
   url: https://recursive.ipfs.io
 - name: refs.ipfs.io
   url: https://refs.ipfs.io
 - name: research.protocol.ai
   url: https://research.protocol.ai
+- name: researchroadmaps.ai
+  url: https://researchroadmaps.ai
 - name: retrieval.market
   url: https://retrieval.market
 - name: rfs.fvm.dev
@@ -269,8 +287,14 @@ sites:
   url: https://ru.dev.wikipedia-on-ipfs.org
 - name: ru.wikipedia-on-ipfs.org
   url: https://ru.wikipedia-on-ipfs.org
+- name: saft-project.com
+  url: https://saft-project.com
 - name: saft-project.org
   url: https://saft-project.org
+- name: saftproject.com
+  url: https://saftproject.com
+- name: saturn.tech
+  url: https://saturn.tech
 - name: sbs.tech
   url: https://sbs.tech
 - name: security.filecoin.io
@@ -313,6 +337,8 @@ sites:
   url: https://status.filecoin.io
 - name: storage.filecoin.io
   url: https://storage.filecoin.io
+- name: timeline.fvm.dev
+  url: https://timeline.fvm.dev
 - name: timevault.drand.love
   url: https://timevault.drand.love
 - name: tr.dev.wikipedia-on-ipfs.org
@@ -325,6 +351,8 @@ sites:
   url: https://trusted-setup.filecoin.io
 - name: uk.wikipedia-on-ipfs.org
   url: https://uk.wikipedia-on-ipfs.org
+- name: v2.slingshot.filecoin.io
+  url: https://v2.slingshot.filecoin.io
 - name: venus.filecoin.io
   url: https://venus.filecoin.io
 - name: webrtc-star.discovery.libp2p.io
