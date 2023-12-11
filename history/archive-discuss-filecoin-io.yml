@@ -1,7 +1,7 @@
 url: https://archive.discuss.filecoin.io
-status: down
-code: 429
-responseTime: 304
-lastUpdated: 2023-12-11T23:09:13.006Z
+status: up
+code: 200
+responseTime: 684
+lastUpdated: 2023-12-11T23:19:05.945Z
 startTime: 2023-08-23T20:00:01.962Z
 generator: Upptime <https://github.com/upptime/upptime>
