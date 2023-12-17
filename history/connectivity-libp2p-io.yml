@@ -1,7 +1,7 @@
 url: https://connectivity.libp2p.io
-status: up
-code: 200
-responseTime: 398
-lastUpdated: 2023-12-16T23:05:18.283Z
+status: down
+code: 502
+responseTime: 15676
+lastUpdated: 2023-12-17T13:47:43.540Z
 startTime: 2023-08-23T20:00:22.322Z
 generator: Upptime <https://github.com/upptime/upptime>
