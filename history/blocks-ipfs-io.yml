@@ -1,7 +1,7 @@
 url: https://blocks.ipfs.io
-status: up
-code: 200
-responseTime: 69
-lastUpdated: 2024-01-06T23:05:26.715Z
+status: down
+code: 502
+responseTime: 20
+lastUpdated: 2024-01-07T10:14:47.969Z
 startTime: 2023-08-21T03:55:00.067Z
 generator: Upptime <https://github.com/upptime/upptime>
