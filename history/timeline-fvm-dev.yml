@@ -1,7 +1,7 @@
 url: https://timeline.fvm.dev
-status: up
-code: 200
-responseTime: 344
-lastUpdated: 2024-01-16T23:07:06.177Z
+status: down
+code: 500
+responseTime: 2230
+lastUpdated: 2024-01-17T21:45:30.282Z
 startTime: 2023-12-06T17:05:51.247Z
 generator: Upptime <https://github.com/upptime/upptime>
