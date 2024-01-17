@@ -956,9 +956,9 @@
     "slug": "dev-plnetwork-io",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.82%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.42%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 1844,
     "timeDay": 806,
@@ -966,7 +966,7 @@
     "timeMonth": 287,
     "timeYear": 1844,
     "dailyMinutesDown": {
-      "2024-01-17": 3
+      "2024-01-17": 8
     }
   },
   {
@@ -1019,9 +1019,9 @@
     "slug": "discoursegraphs-ai",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.82%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.42%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 247,
     "timeDay": 224,
@@ -1029,7 +1029,7 @@
     "timeMonth": 177,
     "timeYear": 247,
     "dailyMinutesDown": {
-      "2024-01-17": 3
+      "2024-01-17": 8
     }
   },
   {
@@ -1597,7 +1597,7 @@
     "status": "up",
     "uptime": "89.10%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "59.23%",
+    "uptimeWeek": "59.29%",
     "uptimeMonth": "46.44%",
     "uptimeYear": "89.10%",
     "time": 289,
@@ -1914,18 +1914,20 @@
     "url": "https://fvm.filecoin.io",
     "icon": "https://icons.duckduckgo.com/ip3/fvm.filecoin.io.ico",
     "slug": "fvm-filecoin-io",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.81%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 576,
-    "timeDay": 290,
-    "timeWeek": 633,
-    "timeMonth": 680,
-    "timeYear": 576,
-    "dailyMinutesDown": {}
+    "time": 574,
+    "timeDay": 267,
+    "timeWeek": 585,
+    "timeMonth": 667,
+    "timeYear": 574,
+    "dailyMinutesDown": {
+      "2024-01-17": 3
+    }
   },
   {
     "name": "grants.filecoin.io",
@@ -2092,19 +2094,19 @@
     "url": "https://ipfs.impactevaluator.io",
     "icon": "https://icons.duckduckgo.com/ip3/ipfs.impactevaluator.io.ico",
     "slug": "ipfs-impactevaluator-io",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.78%",
-    "uptimeWeek": "99.97%",
+    "uptimeDay": "99.58%",
+    "uptimeWeek": "99.94%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 166,
-    "timeDay": 1157,
-    "timeWeek": 369,
-    "timeMonth": 205,
+    "timeDay": 865,
+    "timeWeek": 359,
+    "timeMonth": 207,
     "timeYear": 166,
     "dailyMinutesDown": {
-      "2024-01-17": 3
+      "2024-01-17": 6
     }
   },
   {
@@ -2319,9 +2321,9 @@
     "slug": "legacy-starmap-site",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.78%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.39%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 4409,
     "timeDay": 3893,
@@ -2329,7 +2331,7 @@
     "timeMonth": 4428,
     "timeYear": 4409,
     "dailyMinutesDown": {
-      "2024-01-17": 3
+      "2024-01-17": 9
     }
   },
   {
@@ -2961,18 +2963,20 @@
     "url": "https://researchroadmaps.ai",
     "icon": "https://icons.duckduckgo.com/ip3/researchroadmaps.ai.ico",
     "slug": "researchroadmaps-ai",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 278,
-    "timeDay": 214,
-    "timeWeek": 186,
-    "timeMonth": 189,
-    "timeYear": 278,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.78%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 285,
+    "timeDay": 715,
+    "timeWeek": 315,
+    "timeMonth": 221,
+    "timeYear": 285,
+    "dailyMinutesDown": {
+      "2024-01-17": 3
+    }
   },
   {
     "name": "retrieval.market",
@@ -3001,18 +3005,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/rfs.fvm.dev.ico",
     "slug": "rfs-fvm-dev",
     "status": "down",
-    "uptime": "98.12%",
-    "uptimeDay": "99.74%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "98.12%",
+    "uptime": "98.11%",
+    "uptimeDay": "99.36%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "98.11%",
     "time": 508,
     "timeDay": 217,
     "timeWeek": 330,
     "timeMonth": 398,
     "timeYear": 508,
     "dailyMinutesDown": {
-      "2024-01-17": 4,
+      "2024-01-17": 9,
       "2023-10-24": 1086,
       "2023-10-23": 184,
       "2023-10-13": 52
@@ -3355,18 +3359,20 @@
     "url": "https://spacewarp.fvm.dev",
     "icon": "https://icons.duckduckgo.com/ip3/spacewarp.fvm.dev.ico",
     "slug": "spacewarp-fvm-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.77%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 2180,
-    "timeDay": 2944,
-    "timeWeek": 2161,
-    "timeMonth": 2140,
-    "timeYear": 2180,
-    "dailyMinutesDown": {}
+    "time": 2173,
+    "timeDay": 2044,
+    "timeWeek": 2034,
+    "timeMonth": 2109,
+    "timeYear": 2173,
+    "dailyMinutesDown": {
+      "2024-01-17": 3
+    }
   },
   {
     "name": "spec.filecoin.io",
@@ -3447,9 +3453,9 @@
     "slug": "staging-impactevaluator-io",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.72%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.34%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 153,
     "timeDay": 118,
@@ -3457,7 +3463,7 @@
     "timeMonth": 158,
     "timeYear": 153,
     "dailyMinutesDown": {
-      "2024-01-17": 4
+      "2024-01-17": 9
     }
   },
   {
@@ -3467,9 +3473,9 @@
     "slug": "staging-plnetwork-io",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.73%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.35%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 1538,
     "timeDay": 221,
@@ -3477,7 +3483,7 @@
     "timeMonth": 207,
     "timeYear": 1538,
     "dailyMinutesDown": {
-      "2024-01-17": 4
+      "2024-01-17": 9
     }
   },
   {
@@ -3487,9 +3493,9 @@
     "slug": "starmap-site",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.73%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.35%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 3559,
     "timeDay": 2853,
@@ -3497,7 +3503,7 @@
     "timeMonth": 3419,
     "timeYear": 3559,
     "dailyMinutesDown": {
-      "2024-01-17": 4
+      "2024-01-17": 9
     }
   },
   {
@@ -3505,18 +3511,20 @@
     "url": "https://stats.singularity.storage",
     "icon": "https://icons.duckduckgo.com/ip3/stats.singularity.storage.ico",
     "slug": "stats-singularity-storage",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.77%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 279,
-    "timeDay": 291,
-    "timeWeek": 295,
-    "timeMonth": 336,
-    "timeYear": 279,
-    "dailyMinutesDown": {}
+    "time": 288,
+    "timeDay": 778,
+    "timeWeek": 417,
+    "timeMonth": 365,
+    "timeYear": 288,
+    "dailyMinutesDown": {
+      "2024-01-17": 3
+    }
   },
   {
     "name": "status.drand.love",
@@ -3585,18 +3593,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/timeline.fvm.dev.ico",
     "slug": "timeline-fvm-dev",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.73%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.98%",
+    "uptimeDay": "99.35%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 191,
     "timeDay": 1287,
     "timeWeek": 449,
     "timeMonth": 264,
     "timeYear": 191,
     "dailyMinutesDown": {
-      "2024-01-17": 4
+      "2024-01-17": 9
     }
   },
   {
@@ -3791,7 +3799,7 @@
     "timeMonth": 0,
     "timeYear": 285,
     "dailyMinutesDown": {
-      "2024-01-17": 1310,
+      "2024-01-17": 1315,
       "2024-01-16": 1440,
       "2024-01-15": 1440,
       "2024-01-14": 1440,
@@ -4043,7 +4051,7 @@
     "timeMonth": 0,
     "timeYear": 486,
     "dailyMinutesDown": {
-      "2024-01-17": 1310,
+      "2024-01-17": 1315,
       "2024-01-16": 1440,
       "2024-01-15": 1440,
       "2024-01-14": 1440,
@@ -4099,7 +4107,7 @@
     "timeMonth": 0,
     "timeYear": 306,
     "dailyMinutesDown": {
-      "2024-01-17": 1310,
+      "2024-01-17": 1315,
       "2024-01-16": 1440,
       "2024-01-15": 1440,
       "2024-01-14": 1440,
@@ -4220,9 +4228,9 @@
     "slug": "www-plnetwork-io",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.73%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.35%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 841,
     "timeDay": 229,
@@ -4230,7 +4238,7 @@
     "timeMonth": 199,
     "timeYear": 841,
     "dailyMinutesDown": {
-      "2024-01-17": 4
+      "2024-01-17": 9
     }
   },
   {
