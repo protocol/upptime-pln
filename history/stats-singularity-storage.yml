@@ -1,7 +1,7 @@
 url: https://stats.singularity.storage
-status: down
-code: 500
-responseTime: 1265
-lastUpdated: 2024-01-17T21:51:32.193Z
+status: up
+code: 200
+responseTime: 579
+lastUpdated: 2024-01-17T21:58:23.633Z
 startTime: 2023-11-29T21:39:03.321Z
 generator: Upptime <https://github.com/upptime/upptime>
