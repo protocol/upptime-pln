@@ -1739,19 +1739,19 @@
     "url": "https://filecoin.io",
     "icon": "https://icons.duckduckgo.com/ip3/filecoin.io.ico",
     "slug": "filecoin-io",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.83%",
-    "uptimeWeek": "99.98%",
+    "uptimeDay": "99.56%",
+    "uptimeWeek": "99.94%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 272,
-    "timeDay": 470,
-    "timeWeek": 283,
-    "timeMonth": 248,
-    "timeYear": 272,
+    "time": 271,
+    "timeDay": 298,
+    "timeWeek": 263,
+    "timeMonth": 244,
+    "timeYear": 271,
     "dailyMinutesDown": {
-      "2024-01-22": 2
+      "2024-01-22": 6
     }
   },
   {
@@ -3802,7 +3802,7 @@
     "timeMonth": 0,
     "timeYear": 285,
     "dailyMinutesDown": {
-      "2024-01-22": 1371,
+      "2024-01-22": 1377,
       "2024-01-21": 1440,
       "2024-01-20": 1440,
       "2024-01-19": 1440,
@@ -4061,7 +4061,7 @@
     "timeMonth": 0,
     "timeYear": 486,
     "dailyMinutesDown": {
-      "2024-01-22": 1371,
+      "2024-01-22": 1377,
       "2024-01-21": 1440,
       "2024-01-20": 1440,
       "2024-01-19": 1440,
@@ -4122,7 +4122,7 @@
     "timeMonth": 0,
     "timeYear": 306,
     "dailyMinutesDown": {
-      "2024-01-22": 1371,
+      "2024-01-22": 1377,
       "2024-01-21": 1440,
       "2024-01-20": 1440,
       "2024-01-19": 1440,
