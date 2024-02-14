@@ -51,8 +51,6 @@ sites:
   url: https://buildingweb3.com
 - name: car.ipfs.io
   url: https://car.ipfs.io
-- name: chain.love
-  url: https://chain.love
 - name: check.ipfs.network
   url: https://check.ipfs.network
 - name: cid.ipfs.io
@@ -75,6 +73,8 @@ sites:
   url: https://dag.ipfs.io
 - name: dag.ipfs.tech
   url: https://dag.ipfs.tech
+- name: data.storage.market
+  url: https://data.storage.market
 - name: datacapstats.io
   url: https://datacapstats.io
 - name: dataprograms.org
@@ -83,12 +83,12 @@ sites:
   url: https://datasets.filecoin.io
 - name: datatogether.org
   url: https://datatogether.org
+- name: delta.store
+  url: https://delta.store
 - name: destor.com
   url: https://destor.com
 - name: dev.green.filecoin.io
   url: https://dev.green.filecoin.io
-- name: dev.metaverse.filecoin.io
-  url: https://dev.metaverse.filecoin.io
 - name: dev.plnetwork.io
   url: https://dev.plnetwork.io
 - name: dev.webui.ipfs.io
@@ -129,8 +129,6 @@ sites:
   url: https://dweb-primer.ipfs.io
 - name: earth23.sbs.tech
   url: https://earth23.sbs.tech
-- name: ecosystem.filecoin.io
-  url: https://ecosystem.filecoin.io
 - name: ecosystem.ipfs.io
   url: https://ecosystem.ipfs.io
 - name: ecosystem.ipfs.tech
@@ -141,6 +139,8 @@ sites:
   url: https://en.dev.wikipedia-on-ipfs.org
 - name: en.wikipedia-on-ipfs.org
   url: https://en.wikipedia-on-ipfs.org
+- name: estuary.tech
+  url: https://estuary.tech
 - name: events.plnetwork.io
   url: https://events.plnetwork.io
 - name: evergreen.filecoin.io
@@ -151,10 +151,12 @@ sites:
   url: https://fa.wikipedia-on-ipfs.org
 - name: fil-safts.com
   url: https://fil-safts.com
-- name: fil.space
-  url: https://fil.space
+- name: fil.page
+  url: https://fil.page
 - name: fildev.io
   url: https://fildev.io
+- name: file.app
+  url: https://file.app
 - name: filecoin-discover.com
   url: https://filecoin-discover.com
 - name: filecoin-explorer.com
@@ -165,16 +167,20 @@ sites:
   url: https://filecoin.io
 - name: filecoindata.tools
   url: https://filecoindata.tools
+- name: filecoinecosystem.io
+  url: https://filecoinecosystem.io
 - name: filecoingreen.io
   url: https://filecoingreen.io
 - name: filecointldr.io
   url: https://filecointldr.io
-- name: filplus.sp.filecoin.io
-  url: https://filplus.sp.filecoin.io
+- name: filecoinunleashed.io
+  url: https://filecoinunleashed.io
 - name: filplus.storage
   url: https://filplus.storage
 - name: filpoll.io
   url: https://filpoll.io
+- name: filspark.com
+  url: https://filspark.com
 - name: fips.filecoin.io
   url: https://fips.filecoin.io
 - name: flipchart.peerpad.net
@@ -229,8 +235,6 @@ sites:
   url: https://lilium.sh
 - name: lotus.filecoin.io
   url: https://lotus.filecoin.io
-- name: metaverse.filecoin.io
-  url: https://metaverse.filecoin.io
 - name: microgen.site
   url: https://microgen.site
 - name: mta-sts.destor.com
@@ -241,6 +245,8 @@ sites:
   url: https://my.dev.wikipedia-on-ipfs.org
 - name: my.wikipedia-on-ipfs.org
   url: https://my.wikipedia-on-ipfs.org
+- name: nft.storage
+  url: https://nft.storage
 - name: nftschool.dev
   url: https://nftschool.dev
 - name: nftstorage.link
@@ -253,8 +259,6 @@ sites:
   url: https://orbitalburn.filecoin.io
 - name: overall.filecoin-goldenretriever.io
   url: https://overall.filecoin-goldenretriever.io
-- name: p2p.link
-  url: https://p2p.link
 - name: paris22.sbs.tech
   url: https://paris22.sbs.tech
 - name: pastelock.drand.love
@@ -271,8 +275,6 @@ sites:
   url: https://proto.school
 - name: protocol.ai
   url: https://protocol.ai
-- name: randomplanetfacts.xyz
-  url: https://randomplanetfacts.xyz
 - name: recursive.ipfs.io
   url: https://recursive.ipfs.io
 - name: refs.ipfs.io
@@ -297,6 +299,8 @@ sites:
   url: https://saftproject.com
 - name: saturn.tech
   url: https://saturn.tech
+- name: sbs.earth
+  url: https://sbs.earth
 - name: sbs.tech
   url: https://sbs.tech
 - name: security.filecoin.io
@@ -339,6 +343,8 @@ sites:
   url: https://status.filecoin.io
 - name: storage.filecoin.io
   url: https://storage.filecoin.io
+- name: storage.market
+  url: https://storage.market
 - name: timeline.fvm.dev
   url: https://timeline.fvm.dev
 - name: timevault.drand.love
@@ -357,12 +363,14 @@ sites:
   url: https://v2.slingshot.filecoin.io
 - name: venus.filecoin.io
   url: https://venus.filecoin.io
-- name: webrtc-star.discovery.libp2p.io
-  url: https://webrtc-star.discovery.libp2p.io
+- name: web3.storage
+  url: https://web3.storage
 - name: website.ipfs.io
   url: https://website.ipfs.io
 - name: webui.ipfs.io
   url: https://webui.ipfs.io
+- name: week1.filecoin-goldenretriever.io
+  url: https://week1.filecoin-goldenretriever.io
 - name: week2.filecoin-goldenretriever.io
   url: https://week2.filecoin-goldenretriever.io
 - name: week3.filecoin-goldenretriever.io
@@ -387,6 +395,8 @@ sites:
   url: https://www.filecoin-goldenretriever.io
 - name: www.filstation.app
   url: https://www.filstation.app
+- name: www.ipc.space
+  url: https://www.ipc.space
 - name: www.ipfs.io
   url: https://www.ipfs.io
 - name: www.plnetwork.io
