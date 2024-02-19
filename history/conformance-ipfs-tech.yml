@@ -1,7 +1,7 @@
 url: https://conformance.ipfs.tech
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-02-19T20:12:13.086Z
+status: up
+code: 200
+responseTime: 755
+lastUpdated: 2024-02-19T20:20:24.001Z
 startTime: 2023-11-16T16:36:28.484Z
 generator: Upptime <https://github.com/upptime/upptime>
