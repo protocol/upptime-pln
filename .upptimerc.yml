@@ -31,8 +31,6 @@ sites:
   url: https://badbits.dwebops.pub
 - name: benchmark-js.ipfs.io
   url: https://benchmark-js.ipfs.io
-- name: bifrost-gateway.ipfs.io
-  url: https://bifrost-gateway.ipfs.io
 - name: blocks.ipfs.io
   url: https://blocks.ipfs.io
 - name: blog.ipfs.io
@@ -113,8 +111,6 @@ sites:
   url: https://dnslink.org
 - name: docs.filecoin.io
   url: https://docs.filecoin.io
-- name: docs.ipc.space
-  url: https://docs.ipc.space
 - name: docs.ipfs.io
   url: https://docs.ipfs.io
 - name: docs.ipfs.tech
