@@ -1,7 +1,7 @@
 url: https://status.drand.love
-status: down
-code: 418
-responseTime: 392
-lastUpdated: 2024-02-24T07:31:08.553Z
+status: up
+code: 200
+responseTime: 889
+lastUpdated: 2024-02-24T07:37:25.760Z
 startTime: 2023-08-23T20:02:29.928Z
 generator: Upptime <https://github.com/upptime/upptime>
