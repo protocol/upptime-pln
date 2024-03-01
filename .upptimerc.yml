@@ -31,8 +31,6 @@ sites:
   url: https://badbits.dwebops.pub
 - name: benchmark-js.ipfs.io
   url: https://benchmark-js.ipfs.io
-- name: bifrost-gateway.ipfs.io
-  url: https://bifrost-gateway.ipfs.io
 - name: blocks.ipfs.io
   url: https://blocks.ipfs.io
 - name: blog.ipfs.io
@@ -105,16 +103,12 @@ sites:
   url: https://dist.ipfs.io
 - name: dist.ipfs.tech
   url: https://dist.ipfs.tech
-- name: dnslink.dev
-  url: https://dnslink.dev
 - name: dnslink.io
   url: https://dnslink.io
 - name: dnslink.org
   url: https://dnslink.org
 - name: docs.filecoin.io
   url: https://docs.filecoin.io
-- name: docs.ipc.space
-  url: https://docs.ipc.space
 - name: docs.ipfs.io
   url: https://docs.ipfs.io
 - name: docs.ipfs.tech
@@ -141,6 +135,8 @@ sites:
   url: https://en.wikipedia-on-ipfs.org
 - name: estuary.tech
   url: https://estuary.tech
+- name: ethdenver.ipc.space
+  url: https://ethdenver.ipc.space
 - name: events.plnetwork.io
   url: https://events.plnetwork.io
 - name: evergreen.filecoin.io
@@ -225,6 +221,8 @@ sites:
   url: https://js.ipfs.tech
 - name: latam22.sbs.tech
   url: https://latam22.sbs.tech
+- name: legacy.datasets.filecoin.io
+  url: https://legacy.datasets.filecoin.io
 - name: legacy.starmap.site
   url: https://legacy.starmap.site
 - name: libp2p.io
