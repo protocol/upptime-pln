@@ -1,7 +1,7 @@
 url: https://delta.store
-status: up
-code: 200
-responseTime: 470
-lastUpdated: 2024-03-25T23:05:29.766Z
+status: down
+code: 502
+responseTime: 704
+lastUpdated: 2024-03-26T16:10:01.519Z
 startTime: 2024-02-14T20:31:33.748Z
 generator: Upptime <https://github.com/upptime/upptime>
