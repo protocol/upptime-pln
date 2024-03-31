@@ -1,7 +1,7 @@
 url: https://spacewarp.fvm.dev
-status: up
-code: 200
-responseTime: 2703
-lastUpdated: 2024-03-30T23:06:59.433Z
+status: down
+code: 500
+responseTime: 85
+lastUpdated: 2024-03-31T09:41:04.361Z
 startTime: 2023-08-23T20:02:11.462Z
 generator: Upptime <https://github.com/upptime/upptime>
