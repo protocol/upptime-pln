@@ -1,7 +1,7 @@
 url: https://datatogether.org
-status: up
-code: 200
-responseTime: 208
-lastUpdated: 2024-04-01T23:06:02.913Z
+status: down
+code: 503
+responseTime: 2225
+lastUpdated: 2024-04-02T08:57:39.132Z
 startTime: 2023-08-21T03:55:07.224Z
 generator: Upptime <https://github.com/upptime/upptime>
