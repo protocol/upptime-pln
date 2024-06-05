@@ -1,7 +1,7 @@
 url: https://shop.protocol.ai
-status: up
-code: 200
-responseTime: 135
-lastUpdated: 2024-06-04T23:07:24.158Z
+status: down
+code: 502
+responseTime: 98
+lastUpdated: 2024-06-05T18:31:04.095Z
 startTime: 2023-08-21T03:55:55.704Z
 generator: Upptime <https://github.com/upptime/upptime>
