@@ -1,7 +1,7 @@
 url: https://refs.ipfs.io
-status: down
-code: 502
+status: up
+code: 200
 responseTime: 39
-lastUpdated: 2024-07-12T22:42:02.519Z
+lastUpdated: 2024-07-12T22:54:28.086Z
 startTime: 2023-08-21T03:55:48.024Z
 generator: Upptime <https://github.com/upptime/upptime>
