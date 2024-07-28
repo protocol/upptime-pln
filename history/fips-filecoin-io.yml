@@ -1,7 +1,7 @@
 url: https://fips.filecoin.io
-status: down
-code: 502
-responseTime: 346
-lastUpdated: 2024-07-28T14:42:21.973Z
+status: up
+code: 200
+responseTime: 264
+lastUpdated: 2024-07-28T15:01:24.174Z
 startTime: 2023-08-23T20:01:09.236Z
 generator: Upptime <https://github.com/upptime/upptime>
