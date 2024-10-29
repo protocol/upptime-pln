@@ -1,7 +1,7 @@
 url: https://proofs.filecoin.io
-status: down
-code: 502
-responseTime: 499
-lastUpdated: 2024-10-29T16:16:57.033Z
+status: up
+code: 200
+responseTime: 747
+lastUpdated: 2024-10-29T16:29:15.681Z
 startTime: 2023-08-21T03:55:43.820Z
 generator: Upptime <https://github.com/upptime/upptime>
