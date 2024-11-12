@@ -1,7 +1,7 @@
 url: https://dag.ipfs.tech
-status: up
-code: 200
-responseTime: 104
-lastUpdated: 2024-11-11T23:05:22.655Z
+status: down
+code: 502
+responseTime: 569
+lastUpdated: 2024-11-12T03:30:48.519Z
 startTime: 2023-08-23T20:00:27.141Z
 generator: Upptime <https://github.com/upptime/upptime>
