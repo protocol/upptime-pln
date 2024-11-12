@@ -1,7 +1,7 @@
 url: https://cid.ipfs.io
-status: up
-code: 200
-responseTime: 340
-lastUpdated: 2024-11-12T04:16:45.542Z
+status: down
+code: 502
+responseTime: 276
+lastUpdated: 2024-11-12T04:44:19.210Z
 startTime: 2023-12-06T17:04:27.331Z
 generator: Upptime <https://github.com/upptime/upptime>
