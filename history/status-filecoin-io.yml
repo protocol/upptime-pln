@@ -1,7 +1,7 @@
 url: https://status.filecoin.io
-status: up
-code: 200
-responseTime: 861
-lastUpdated: 2024-11-11T23:08:22.523Z
+status: down
+code: 503
+responseTime: 20156
+lastUpdated: 2024-11-12T09:44:39.847Z
 startTime: 2023-08-23T20:02:31.094Z
 generator: Upptime <https://github.com/upptime/upptime>
