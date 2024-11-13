@@ -1,7 +1,7 @@
 url: https://dnslink.io
-status: up
-code: 200
-responseTime: 638
-lastUpdated: 2024-11-12T23:06:02.784Z
+status: down
+code: 502
+responseTime: 344
+lastUpdated: 2024-11-13T07:19:14.585Z
 startTime: 2023-08-21T03:55:11.515Z
 generator: Upptime <https://github.com/upptime/upptime>
