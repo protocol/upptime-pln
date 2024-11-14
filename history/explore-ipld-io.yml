@@ -1,7 +1,7 @@
 url: https://explore.ipld.io
-status: up
-code: 200
-responseTime: 535
-lastUpdated: 2024-11-14T14:22:13.584Z
+status: down
+code: 502
+responseTime: 339
+lastUpdated: 2024-11-14T17:51:41.195Z
 startTime: 2023-08-23T20:01:00.200Z
 generator: Upptime <https://github.com/upptime/upptime>
