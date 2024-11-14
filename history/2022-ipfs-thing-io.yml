@@ -1,7 +1,7 @@
 url: https://2022.ipfs-thing.io
-status: up
-code: 200
-responseTime: 224
-lastUpdated: 2024-11-13T23:05:25.042Z
+status: down
+code: 502
+responseTime: 593
+lastUpdated: 2024-11-14T06:41:16.859Z
 startTime: 2023-08-23T19:59:56.800Z
 generator: Upptime <https://github.com/upptime/upptime>
