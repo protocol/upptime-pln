@@ -1,7 +1,7 @@
 url: https://check.ipfs.network
-status: down
-code: 502
-responseTime: 572
-lastUpdated: 2024-11-14T06:41:34.472Z
+status: up
+code: 200
+responseTime: 939
+lastUpdated: 2024-11-14T07:02:53.685Z
 startTime: 2023-12-06T17:04:26.140Z
 generator: Upptime <https://github.com/upptime/upptime>
