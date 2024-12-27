@@ -1,7 +1,7 @@
 url: https://tr.wikipedia-on-ipfs.org
-status: up
-code: 200
-responseTime: 232
-lastUpdated: 2024-12-26T23:08:34.373Z
+status: down
+code: 502
+responseTime: 68
+lastUpdated: 2024-12-27T09:47:33.538Z
 startTime: 2023-08-23T20:02:34.221Z
 generator: Upptime <https://github.com/upptime/upptime>
