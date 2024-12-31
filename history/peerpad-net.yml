@@ -1,7 +1,7 @@
 url: https://peerpad.net
-status: up
-code: 200
-responseTime: 82
-lastUpdated: 2024-12-31T16:41:39.334Z
+status: down
+code: 502
+responseTime: 78
+lastUpdated: 2024-12-31T19:57:03.850Z
 startTime: 2023-08-21T03:55:40.850Z
 generator: Upptime <https://github.com/upptime/upptime>
