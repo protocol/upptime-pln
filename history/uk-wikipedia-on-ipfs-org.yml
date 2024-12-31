@@ -1,7 +1,7 @@
 url: https://uk.wikipedia-on-ipfs.org
-status: up
-code: 200
-responseTime: 43
-lastUpdated: 2024-12-29T23:08:48.527Z
+status: down
+code: 502
+responseTime: 46
+lastUpdated: 2024-12-31T02:53:37.869Z
 startTime: 2023-08-23T20:02:35.466Z
 generator: Upptime <https://github.com/upptime/upptime>
