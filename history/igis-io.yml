@@ -1,7 +1,7 @@
 url: https://igis.io
-status: up
-code: 200
-responseTime: 56
-lastUpdated: 2025-01-03T08:47:19.517Z
+status: down
+code: 502
+responseTime: 98
+lastUpdated: 2025-01-03T08:53:30.056Z
 startTime: 2023-08-21T03:55:25.206Z
 generator: Upptime <https://github.com/upptime/upptime>
