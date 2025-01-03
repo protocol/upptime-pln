@@ -1,7 +1,7 @@
 url: https://trusted-setup.filecoin.io
-status: down
-code: 502
-responseTime: 51
-lastUpdated: 2025-01-03T08:41:44.455Z
+status: up
+code: 200
+responseTime: 159
+lastUpdated: 2025-01-03T08:49:45.010Z
 startTime: 2023-08-21T03:55:59.527Z
 generator: Upptime <https://github.com/upptime/upptime>
