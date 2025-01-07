@@ -1,7 +1,7 @@
 url: https://benchmark-js.ipfs.io
-status: down
-code: 502
-responseTime: 70
-lastUpdated: 2025-01-07T11:51:26.447Z
+status: up
+code: 200
+responseTime: 50
+lastUpdated: 2025-01-07T11:57:37.828Z
 startTime: 2023-08-21T03:54:56.729Z
 generator: Upptime <https://github.com/upptime/upptime>
