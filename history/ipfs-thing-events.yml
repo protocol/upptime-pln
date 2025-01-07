@@ -1,7 +1,7 @@
 url: https://ipfs-thing.events
-status: up
-code: 200
-responseTime: 1301
-lastUpdated: 2025-01-06T23:06:49.007Z
+status: down
+code: 502
+responseTime: 15732
+lastUpdated: 2025-01-07T13:35:00.843Z
 startTime: 2023-08-21T03:55:28.189Z
 generator: Upptime <https://github.com/upptime/upptime>
