@@ -1,7 +1,7 @@
 url: https://boost.filecoin.io
-status: down
-code: 500
-responseTime: 1028
-lastUpdated: 2025-01-08T10:43:01.724Z
+status: up
+code: 200
+responseTime: 299
+lastUpdated: 2025-01-08T10:49:17.336Z
 startTime: 2023-08-23T20:00:12.187Z
 generator: Upptime <https://github.com/upptime/upptime>
