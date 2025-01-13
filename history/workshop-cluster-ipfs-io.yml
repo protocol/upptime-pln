@@ -1,7 +1,7 @@
 url: https://workshop.cluster.ipfs.io
-status: up
-code: 200
-responseTime: 187
-lastUpdated: 2025-01-13T07:01:45.813Z
+status: down
+code: 502
+responseTime: 35
+lastUpdated: 2025-01-13T08:01:57.489Z
 startTime: 2023-08-21T03:56:00.409Z
 generator: Upptime <https://github.com/upptime/upptime>
