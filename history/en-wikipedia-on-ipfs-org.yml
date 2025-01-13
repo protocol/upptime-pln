@@ -1,7 +1,7 @@
 url: https://en.wikipedia-on-ipfs.org
-status: up
-code: 200
-responseTime: 169
-lastUpdated: 2025-01-13T16:47:31.856Z
+status: down
+code: 502
+responseTime: 71
+lastUpdated: 2025-01-13T17:08:47.646Z
 startTime: 2023-08-23T20:00:58.005Z
 generator: Upptime <https://github.com/upptime/upptime>
