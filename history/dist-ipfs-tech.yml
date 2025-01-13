@@ -1,7 +1,7 @@
 url: https://dist.ipfs.tech
-status: up
-code: 200
-responseTime: 9
-lastUpdated: 2025-01-13T05:39:18.170Z
+status: down
+code: 502
+responseTime: 16
+lastUpdated: 2025-01-13T05:58:13.550Z
 startTime: 2023-08-21T03:55:09.957Z
 generator: Upptime <https://github.com/upptime/upptime>
