@@ -1,7 +1,7 @@
 url: https://ipfscluster.io
-status: up
-code: 200
-responseTime: 157
-lastUpdated: 2025-01-13T11:20:41.537Z
+status: down
+code: 502
+responseTime: 78
+lastUpdated: 2025-01-13T13:01:13.399Z
 startTime: 2023-08-21T03:55:32.774Z
 generator: Upptime <https://github.com/upptime/upptime>
