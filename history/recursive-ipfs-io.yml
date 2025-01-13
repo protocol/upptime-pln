@@ -1,7 +1,7 @@
 url: https://recursive.ipfs.io
-status: down
-code: 502
-responseTime: 77
-lastUpdated: 2025-01-13T10:35:58.381Z
+status: up
+code: 200
+responseTime: 185
+lastUpdated: 2025-01-13T11:04:33.300Z
 startTime: 2023-08-21T03:55:47.581Z
 generator: Upptime <https://github.com/upptime/upptime>
