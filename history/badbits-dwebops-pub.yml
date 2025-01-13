@@ -1,7 +1,7 @@
 url: https://badbits.dwebops.pub
-status: up
-code: 200
-responseTime: 220
-lastUpdated: 2025-01-13T19:07:42.390Z
+status: down
+code: 502
+responseTime: 78
+lastUpdated: 2025-01-13T20:56:58.446Z
 startTime: 2023-08-21T03:54:56.142Z
 generator: Upptime <https://github.com/upptime/upptime>
