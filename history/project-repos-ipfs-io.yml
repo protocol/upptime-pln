@@ -1,7 +1,7 @@
 url: https://project-repos.ipfs.io
-status: up
-code: 200
-responseTime: 40
-lastUpdated: 2025-01-13T07:41:54.373Z
+status: down
+code: 502
+responseTime: 98
+lastUpdated: 2025-01-13T07:48:50.413Z
 startTime: 2023-11-29T21:38:49.318Z
 generator: Upptime <https://github.com/upptime/upptime>
