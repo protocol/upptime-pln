@@ -1,7 +1,7 @@
 url: https://saftproject.com
-status: down
-code: 502
+status: up
+code: 200
 responseTime: 73
-lastUpdated: 2025-01-13T15:38:51.507Z
+lastUpdated: 2025-01-13T15:45:35.153Z
 startTime: 2023-12-06T17:05:37.461Z
 generator: Upptime <https://github.com/upptime/upptime>
