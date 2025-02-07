@@ -1,7 +1,7 @@
 url: https://hackathons.filecoin.io
-status: down
-code: 504
-responseTime: 15374
-lastUpdated: 2025-02-07T21:03:14.113Z
+status: up
+code: 200
+responseTime: 900
+lastUpdated: 2025-02-07T21:47:44.321Z
 startTime: 2023-12-06T17:05:08.105Z
 generator: Upptime <https://github.com/upptime/upptime>
