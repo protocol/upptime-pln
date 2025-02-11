@@ -1,7 +1,7 @@
 url: https://earth23.sbs.tech
-status: up
-code: 200
-responseTime: 541
-lastUpdated: 2025-02-11T19:39:58.580Z
+status: down
+code: 401
+responseTime: 358
+lastUpdated: 2025-02-11T21:34:15.346Z
 startTime: 2023-11-29T21:38:11.630Z
 generator: Upptime <https://github.com/upptime/upptime>
