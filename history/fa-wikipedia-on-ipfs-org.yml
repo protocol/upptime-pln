@@ -1,7 +1,7 @@
 url: https://fa.wikipedia-on-ipfs.org
-status: down
-code: 502
+status: up
+code: 200
 responseTime: 209
-lastUpdated: 2025-02-14T15:56:34.751Z
+lastUpdated: 2025-02-14T16:04:13.929Z
 startTime: 2023-08-23T20:01:01.019Z
 generator: Upptime <https://github.com/upptime/upptime>
