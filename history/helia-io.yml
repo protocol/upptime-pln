@@ -1,7 +1,7 @@
 url: https://helia.io
-status: up
-code: 200
-responseTime: 710
-lastUpdated: 2025-02-18T23:08:56.920Z
+status: down
+code: 401
+responseTime: 623
+lastUpdated: 2025-02-19T21:40:42.743Z
 startTime: 2023-09-20T14:23:24.130Z
 generator: Upptime <https://github.com/upptime/upptime>
