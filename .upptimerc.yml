@@ -1,16 +1,6 @@
 owner: protocol
 repo: upptime-pln
 sites:
-- name: 2019.ipfs.camp
-  url: https://2019.ipfs.camp
-- name: 2022.ipfs-thing.events
-  url: https://2022.ipfs-thing.events
-- name: 2022.ipfs-thing.io
-  url: https://2022.ipfs-thing.io
-- name: 2022.ipfs.camp
-  url: https://2022.ipfs.camp
-- name: 2023.ipfs-thing.io
-  url: https://2023.ipfs-thing.io
 - name: 22.labweek.io
   url: https://22.labweek.io
 - name: about.ipfs.io
@@ -29,8 +19,6 @@ sites:
   url: https://areweinterplanetaryyet.org
 - name: areweinterplanetaryyet.org
   url: https://areweinterplanetaryyet.org
-- name: arg.protocol.ai
-  url: https://arg.protocol.ai
 - name: awesome.ipfs.tech
   url: https://awesome.ipfs.tech
 - name: awesome.ipfs.tech
@@ -83,8 +71,6 @@ sites:
   url: https://collab.ipfscluster.io
 - name: collab.ipfscluster.io
   url: https://collab.ipfscluster.io
-- name: conformance.ipfs.tech
-  url: https://conformance.ipfs.tech
 - name: connectivity.libp2p.io
   url: https://connectivity.libp2p.io
 - name: connectivity.libp2p.io
@@ -321,8 +307,6 @@ sites:
   url: https://nftstorage.link
 - name: nftstorage.link
   url: https://nftstorage.link
-- name: nomios.io
-  url: https://nomios.io
 - name: paris22.sbs.tech
   url: https://paris22.sbs.tech
 - name: pastelock.drand.love
@@ -387,8 +371,6 @@ sites:
   url: https://saturn.tech
 - name: saturn.tech
   url: https://saturn.tech
-- name: sbs.tech
-  url: https://sbs.tech
 - name: share.ipfs.io
   url: https://share.ipfs.io
 - name: share.ipfs.io
@@ -449,8 +431,6 @@ sites:
   url: https://status.filecoin.io
 - name: status.filecoin.io
   url: https://status.filecoin.io
-- name: storage.filecoin.io
-  url: https://storage.filecoin.io
 - name: storage.market
   url: https://storage.market
 - name: timeline.fvm.dev
